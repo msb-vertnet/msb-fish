@@ -1,0 +1,164 @@
+Report for Institution Code MSB, Resource msb_fish
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 123
+Number of records retrieved in searches: 1393
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 108
+	Country: Colombia ; Times: 3
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: Peru ; Times: 4
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-28 ; Times: 2
+	Date: 2018-05-29 ; Times: 6
+	Date: 2018-05-20 ; Times: 2
+	Date: 2018-05-21 ; Times: 1
+	Date: 2018-05-22 ; Times: 3
+	Date: 2018-05-23 ; Times: 7
+	Date: 2018-05-24 ; Times: 3
+	Date: 2018-05-25 ; Times: 6
+	Date: 2018-05-26 ; Times: 4
+	Date: 2018-05-27 ; Times: 2
+	Date: 2018-05-06 ; Times: 1
+	Date: 2018-05-07 ; Times: 9
+	Date: 2018-05-04 ; Times: 1
+	Date: 2018-05-05 ; Times: 2
+	Date: 2018-05-02 ; Times: 2
+	Date: 2018-05-03 ; Times: 12
+	Date: 2018-05-01 ; Times: 3
+	Date: 2018-05-08 ; Times: 4
+	Date: 2018-05-09 ; Times: 1
+	Date: 2018-05-31 ; Times: 2
+	Date: 2018-05-30 ; Times: 6
+	Date: 2018-05-15 ; Times: 12
+	Date: 2018-05-14 ; Times: 9
+	Date: 2018-05-17 ; Times: 3
+	Date: 2018-05-16 ; Times: 3
+	Date: 2018-05-11 ; Times: 3
+	Date: 2018-05-10 ; Times: 2
+	Date: 2018-05-13 ; Times: 2
+	Date: 2018-05-19 ; Times: 8
+	Date: 2018-05-18 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "10048" ; Times: 1
+	Query: "CM 9036" ; Times: 1
+	Query: "mule deer" ; Times: 1
+	Query: "catalognumber:9932" ; Times: 1
+	Query: "Morone americana " ; Times: 1
+	Query: "tyler J B" ; Times: 1
+	Query: "distance(location,geopoint(43.779212493,-95.2178509615))&lt;17306" ; Times: 2
+	Query: "recordedby:brown institutioncode:MSB basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "distance(location,geopoint(43.3984914053276,-95.1502012035874))&lt;35967" ; Times: 1
+	Query: "scientificname:(Moxostoma carinatum) country:United States mappable:1" ; Times: 1
+	Query: "Michigan State University" ; Times: 1
+	Query: "71073" ; Times: 1
+	Query: "7799" ; Times: 1
+	Query: "Clark county Stephens I" ; Times: 1
+	Query: "gulf of california institutioncode:MSB" ; Times: 1
+	Query: "distance(location,geopoint(37.6772884172284,-89.0633709977937))&lt;27695" ; Times: 1
+	Query: "Microdesmus longipinnis" ; Times: 1
+	Query: "catalognumber:9219" ; Times: 1
+	Query: "stateprovince:&#34;Oklahoma&#34; collectioncode:Fish year &gt;= 1980 year &lt;= 2018" ; Times: 2
+	Query: "scientificname:(Salvelinus malma) country:United States mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(43.5272107798635,-95.104608857))&lt;18048" ; Times: 2
+	Query: "Dogs" ; Times: 1
+	Query: "Cottus bairdii" ; Times: 3
+	Query: "locality:clear creek county:&#34;coconino&#34;" ; Times: 1
+	Query: "catalognumber:47562" ; Times: 1
+	Query: "56785" ; Times: 1
+	Query: "62245" ; Times: 1
+	Query: "36458" ; Times: 1
+	Query: "distance(location,geopoint(43.9584463493511,-95.1858499928992))&lt;39197" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34; collectioncode:Fish year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "distance(location,geopoint(46.412667731,-95.7279602395))&lt;54505" ; Times: 2
+	Query: "xiphophorus helleri" ; Times: 2
+	Query: "recordedby:james brown institutioncode:MSB basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "35076" ; Times: 1
+	Query: "scientificname:(Salvelinus fontinalis) country:United States mappable:1" ; Times: 1
+	Query: "18002" ; Times: 1
+	Query: "31227" ; Times: 2
+	Query: "Burr" ; Times: 2
+	Query: "24432" ; Times: 1
+	Query: "mountain lake biological" ; Times: 1
+	Query: "Oncorhynchus clarki henshawi" ; Times: 28
+	Query: "scientificname:(Acipenser fulvescens) country:United States mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(46.9340888008072,-95.7192915126383))&lt;56921" ; Times: 1
+	Query: "stateprovince:&#34;Oklahoma&#34; collectioncode:Fish year &gt;= 1960 year &lt;= 2018" ; Times: 1
+	Query: "class:Actinopterygii stateprovince:&#34;Oklahoma&#34; year &gt;= 1960 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:amarus" ; Times: 1
+	Query: "leopard frog" ; Times: 1
+	Query: "95215" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34; collectioncode:Fish year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "msb 37184" ; Times: 1
+	Query: "MSB 70575" ; Times: 1
+	Query: "scientificname:(Notropis amabilis) country:United States mappable:1" ; Times: 1
+	Query: "MAM 39" ; Times: 1
+	Query: "27634" ; Times: 1
+	Query: "distance(location,geopoint(45.589535943,-95.44487865))&lt;31453" ; Times: 2
+	Query: "catalognumber:6490 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "distance(location,geopoint(45.50675844225,-95.9057693345))&lt;68126" ; Times: 2
+	Query: "MSB 57224" ; Times: 1
+	Query: "40447" ; Times: 2
+	Query: "catalognumber:66465" ; Times: 1
+	Query: "cm 3257" ; Times: 1
+	Query: "distance(location,geopoint(46.9340952330001,-95.719205936))&lt;42896" ; Times: 2
+	Query: "distance(location,geopoint(43.9584544995,-95.1857501855))&lt;25378" ; Times: 2
+	Query: "fossil" ; Times: 1
+	Query: "37232" ; Times: 1
+	Query: "catalognumber:9336" ; Times: 1
+	Query: "catalognumber:95077" ; Times: 1
+	Query: "37184" ; Times: 1
+	Query: "stateprovince:&#34;Mississippi&#34; collectioncode:Fish year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "east texas wildlife" ; Times: 1
+	Query: "MSB 67277" ; Times: 1
+	Query: "50785" ; Times: 2
+	Query: "class:Actinopterygii stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "scientificname:(Scaphirhynchus platorynchus) country:United States mappable:1" ; Times: 1
+	Query: "A. Burr" ; Times: 1
+	Query: "locality:yellowstone" ; Times: 1
+	Query: "44963" ; Times: 1
+	Query: "catalognumber:1852" ; Times: 1
+	Query: "class:Actinopterygii stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "June sucker" ; Times: 1
+	Query: "39454" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 1178 download events in this period)
+Total number of records downloaded: 3887
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-15 ; Times: 1
+	Date: 2018-05-14 ; Times: 4
+	Date: 2018-05-16 ; Times: 4
+	Date: 2018-05-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "percina" ; Times: 1
+	Query: "stateprovince:&#34;Mississippi&#34; collectioncode:Fish year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34; collectioncode:Fish year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "morone americana" ; Times: 1
+	Query: "stateprovince:&#34;Arkansas&#34; collectioncode:Fish year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "stateprovince:&#34;Oklahoma&#34; collectioncode:Fish year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "stateprovince:&#34;Louisiana&#34; collectioncode:Fish year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "stateprovince:&#34;Oklahoma&#34; collectioncode:Fish year &gt;= 1960 year &lt;= 2018" ; Times: 1
+	Query: "class:Actinopterygii stateprovince:&#34;Oklahoma&#34; year &gt;= 1960 year &lt;= 2018" ; Times: 2
+
+
+End of report.
