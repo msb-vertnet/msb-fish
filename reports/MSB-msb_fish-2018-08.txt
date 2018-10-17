@@ -1,0 +1,251 @@
+Report for Institution Code MSB, Resource msb_fish
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 270
+Number of records retrieved in searches: 456
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 230
+	Country: Australia ; Times: 2
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 3
+	Country: Mexico ; Times: 22
+	Country: United Kingdom ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Denmark ; Times: 7
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-30 ; Times: 6
+	Date: 2018-08-31 ; Times: 88
+	Date: 2018-08-18 ; Times: 3
+	Date: 2018-08-16 ; Times: 3
+	Date: 2018-08-23 ; Times: 3
+	Date: 2018-08-14 ; Times: 4
+	Date: 2018-08-15 ; Times: 4
+	Date: 2018-08-12 ; Times: 1
+	Date: 2018-08-13 ; Times: 27
+	Date: 2018-08-10 ; Times: 1
+	Date: 2018-08-11 ; Times: 1
+	Date: 2018-08-02 ; Times: 8
+	Date: 2018-08-08 ; Times: 3
+	Date: 2018-08-03 ; Times: 6
+	Date: 2018-08-17 ; Times: 1
+	Date: 2018-08-27 ; Times: 7
+	Date: 2018-08-26 ; Times: 1
+	Date: 2018-08-25 ; Times: 1
+	Date: 2018-08-24 ; Times: 3
+	Date: 2018-08-09 ; Times: 6
+	Date: 2018-08-22 ; Times: 2
+	Date: 2018-08-21 ; Times: 17
+	Date: 2018-08-20 ; Times: 20
+	Date: 2018-08-05 ; Times: 2
+	Date: 2018-08-04 ; Times: 4
+	Date: 2018-08-07 ; Times: 2
+	Date: 2018-08-06 ; Times: 16
+	Date: 2018-08-01 ; Times: 23
+	Date: 2018-08-29 ; Times: 2
+	Date: 2018-08-28 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "MSB 58326" ; Times: 1
+	Query: "MSB 58325" ; Times: 2
+	Query: "35547" ; Times: 1
+	Query: "MSB 87126" ; Times: 1
+	Query: "gammarus" ; Times: 1
+	Query: "10699" ; Times: 1
+	Query: "MSB 70714" ; Times: 2
+	Query: "49831" ; Times: 1
+	Query: "MSB 53341" ; Times: 2
+	Query: "24493" ; Times: 1
+	Query: "35625" ; Times: 1
+	Query: "catalognumber:93315 institutioncode:MSB" ; Times: 2
+	Query: "21408" ; Times: 1
+	Query: "sweetwater creek" ; Times: 1
+	Query: "catalognumber:26896 institutioncode:MSB" ; Times: 1
+	Query: "catalognumber:70738 institutioncode:MSB" ; Times: 1
+	Query: "51957" ; Times: 1
+	Query: "59754" ; Times: 1
+	Query: "catalognumber:67859" ; Times: 1
+	Query: "catalognumber:73759 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:30908 institutioncode:MSB" ; Times: 1
+	Query: "30046" ; Times: 1
+	Query: "25211" ; Times: 1
+	Query: "MSB 58328" ; Times: 1
+	Query: "p10-236" ; Times: 1
+	Query: "MSB 56705" ; Times: 3
+	Query: "MSB 56704" ; Times: 2
+	Query: "61905" ; Times: 2
+	Query: "catalognumber:25453 institutioncode:MSB" ; Times: 1
+	Query: "MSB 58334" ; Times: 3
+	Query: "25891" ; Times: 1
+	Query: "57648" ; Times: 1
+	Query: "(etheostoma caeruleum)" ; Times: 1
+	Query: "88945" ; Times: 1
+	Query: "282979" ; Times: 1
+	Query: "MSB 43433" ; Times: 2
+	Query: "specificepithet:emiliae genus:Opsopoeodus" ; Times: 1
+	Query: "96782" ; Times: 1
+	Query: "catalognumber:74485 institutioncode:MSB" ; Times: 1
+	Query: "catalognumber:81712 institutioncode:MSB" ; Times: 2
+	Query: "MSB 74926" ; Times: 2
+	Query: "MSB 69326" ; Times: 2
+	Query: "MSB 46234" ; Times: 1
+	Query: "MSB 56706" ; Times: 1
+	Query: "Centropomus undecimalis" ; Times: 3
+	Query: "26688" ; Times: 1
+	Query: "MSB 55699" ; Times: 2
+	Query: "60030" ; Times: 1
+	Query: "catalognumber:23795 institutioncode:MSB" ; Times: 1
+	Query: "MSB 56717" ; Times: 1
+	Query: "69084" ; Times: 1
+	Query: "Pricei" ; Times: 4
+	Query: "17984" ; Times: 1
+	Query: "MSB 25246" ; Times: 1
+	Query: "11363" ; Times: 2
+	Query: "69162" ; Times: 1
+	Query: "MSB 58330" ; Times: 1
+	Query: "30447" ; Times: 1
+	Query: "Oncorhynchus clarki henshawi" ; Times: 19
+	Query: "genus:astyanax stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "catalognumber:86130 institutioncode:MSB" ; Times: 2
+	Query: "MSB 77901" ; Times: 2
+	Query: "MSB 74936" ; Times: 1
+	Query: "MSB 74932" ; Times: 1
+	Query: "catalognumber:7064" ; Times: 1
+	Query: "70707" ; Times: 1
+	Query: "MSB 72070" ; Times: 2
+	Query: "MSB 90219" ; Times: 2
+	Query: "catalognumber:73739 institutioncode:MSB" ; Times: 2
+	Query: "MSB 83495" ; Times: 2
+	Query: "Hybognathus amarus" ; Times: 1
+	Query: "locality:sand creek" ; Times: 1
+	Query: "institutioncode:MSB 2218*" ; Times: 1
+	Query: "MSB 87462" ; Times: 3
+	Query: "institutioncode:MSB 2218" ; Times: 1
+	Query: "MSB 71957" ; Times: 2
+	Query: "catalognumber:72954 institutioncode:MSB" ; Times: 2
+	Query: "26380" ; Times: 1
+	Query: "11297" ; Times: 1
+	Query: "catalognumber:62693 institutioncode:MSB" ; Times: 1
+	Query: "MSB 46243]" ; Times: 1
+	Query: "Msb 74965" ; Times: 1
+	Query: "MSB 87492" ; Times: 1
+	Query: "catalognumber:30838 institutioncode:MSB" ; Times: 1
+	Query: "catalognumber:74657 institutioncode:MSB" ; Times: 4
+	Query: "MSB 90205" ; Times: 2
+	Query: "MSB 89198" ; Times: 2
+	Query: "MSB 73954" ; Times: 3
+	Query: "MSB 30518" ; Times: 1
+	Query: "devil" ; Times: 2
+	Query: "MSB 24456" ; Times: 1
+	Query: "MSB 45150" ; Times: 1
+	Query: "MSB 86381" ; Times: 2
+	Query: "39306" ; Times: 1
+	Query: "MSB 43630" ; Times: 2
+	Query: "catalognumber:29566 institutioncode:MSB" ; Times: 1
+	Query: "MSB 28940" ; Times: 1
+	Query: "catalognumber:46769" ; Times: 1
+	Query: "24921" ; Times: 1
+	Query: "24949" ; Times: 1
+	Query: "32613" ; Times: 2
+	Query: "B-3403" ; Times: 1
+	Query: "26582" ; Times: 1
+	Query: "15862" ; Times: 1
+	Query: "13353" ; Times: 1
+	Query: "MSB 87486" ; Times: 1
+	Query: "10395" ; Times: 1
+	Query: "MSB 87484" ; Times: 2
+	Query: "MSB 87485" ; Times: 1
+	Query: "60257" ; Times: 2
+	Query: "82383" ; Times: 1
+	Query: "MSB 74897" ; Times: 1
+	Query: "92685" ; Times: 2
+	Query: "Noturus munitus" ; Times: 1
+	Query: "MSB 74894" ; Times: 1
+	Query: "76835" ; Times: 1
+	Query: "3449" ; Times: 1
+	Query: "Boreogadus saida mappable:1" ; Times: 3
+	Query: "catalognumber:29844 institutioncode:MSB" ; Times: 1
+	Query: "76624" ; Times: 1
+	Query: "catalognumber:81646 institutioncode:MSB" ; Times: 2
+	Query: "27449" ; Times: 1
+	Query: "skylark" ; Times: 1
+	Query: "82879" ; Times: 1
+	Query: "Balistes capriscus" ; Times: 2
+	Query: "48541" ; Times: 1
+	Query: "genus:Xiphophorus" ; Times: 1
+	Query: "MSB 70447" ; Times: 2
+	Query: "MSB 74965" ; Times: 2
+	Query: "89692" ; Times: 1
+	Query: "32593" ; Times: 7
+	Query: "93971" ; Times: 1
+	Query: "MSB 74885" ; Times: 2
+	Query: "MSB 74886" ; Times: 2
+	Query: "34645" ; Times: 1
+	Query: "catalognumber:16759" ; Times: 1
+	Query: "MSB 71965" ; Times: 2
+	Query: "12116" ; Times: 1
+	Query: "10760" ; Times: 2
+	Query: "MSB 61426" ; Times: 2
+	Query: "catalognumber:81534 institutioncode:MSB" ; Times: 2
+	Query: "Colossoma macropomum" ; Times: 1
+	Query: "catalognumber:77407 institutioncode:MSB" ; Times: 3
+	Query: "michigan state university" ; Times: 1
+	Query: "98047" ; Times: 1
+	Query: "25004" ; Times: 1
+	Query: "MSB 68484" ; Times: 1
+	Query: "MSB 89387" ; Times: 2
+	Query: "MSB 68483" ; Times: 1
+	Query: "MSB 74970" ; Times: 2
+	Query: "41411" ; Times: 1
+	Query: "lucania goodei" ; Times: 1
+	Query: "boreogadus saida" ; Times: 1
+	Query: "institutioncode:MSB 22186" ; Times: 1
+	Query: "MSB 46243" ; Times: 2
+	Query: "institutioncode:MSB 22180" ; Times: 2
+	Query: "MSB 70704" ; Times: 2
+	Query: "92542" ; Times: 1
+	Query: "MSB 18064" ; Times: 1
+	Query: "crayfish" ; Times: 4
+	Query: "MSB 45060" ; Times: 2
+	Query: "catalognumber:51160" ; Times: 1
+	Query: "catalognumber:29562 institutioncode:MSB" ; Times: 1
+	Query: "MSB 73966" ; Times: 1
+	Query: "43649" ; Times: 1
+	Query: "genus:astyanax stateprovince:&#34;Texas&#34; year &lt;= 1955" ; Times: 1
+	Query: "22213" ; Times: 1
+	Query: "13171" ; Times: 1
+	Query: "MSB 51133" ; Times: 2
+	Query: "MSB 74667" ; Times: 2
+	Query: "Balistes carolinensis" ; Times: 2
+	Query: "MSB 83456" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 1416 download events in this period)
+Total number of records downloaded: 41
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: New Zealand ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Peru ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-11 ; Times: 1
+	Date: 2018-08-06 ; Times: 2
+	Date: 2018-08-20 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Colossoma macropomum" ; Times: 1
+	Query: "Astronotus ocellatus" ; Times: 1
+	Query: "catesbeiana" ; Times: 1
+	Query: "hassex:1 hasmass:1" ; Times: 2
+
+
+End of report.
