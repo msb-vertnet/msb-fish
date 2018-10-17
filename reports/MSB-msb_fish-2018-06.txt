@@ -1,0 +1,177 @@
+Report for Institution Code MSB, Resource msb_fish
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 130
+Number of records retrieved in searches: 825
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 103
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 6
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Kuwait ; Times: 2
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 2
+	Date: 2018-06-06 ; Times: 12
+	Date: 2018-06-05 ; Times: 13
+	Date: 2018-06-04 ; Times: 3
+	Date: 2018-06-29 ; Times: 10
+	Date: 2018-06-02 ; Times: 4
+	Date: 2018-06-01 ; Times: 1
+	Date: 2018-06-25 ; Times: 7
+	Date: 2018-06-27 ; Times: 3
+	Date: 2018-06-26 ; Times: 2
+	Date: 2018-06-21 ; Times: 3
+	Date: 2018-06-20 ; Times: 2
+	Date: 2018-06-09 ; Times: 2
+	Date: 2018-06-08 ; Times: 11
+	Date: 2018-06-23 ; Times: 1
+	Date: 2018-06-10 ; Times: 1
+	Date: 2018-06-11 ; Times: 3
+	Date: 2018-06-12 ; Times: 7
+	Date: 2018-06-13 ; Times: 1
+	Date: 2018-06-14 ; Times: 4
+	Date: 2018-06-15 ; Times: 5
+	Date: 2018-06-16 ; Times: 1
+	Date: 2018-06-17 ; Times: 5
+	Date: 2018-06-18 ; Times: 4
+	Date: 2018-06-19 ; Times: 10
+	Date: 2018-06-30 ; Times: 1
+	Date: 2018-06-03 ; Times: 4
+	Date: 2018-06-28 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "95500" ; Times: 1
+	Query: "catalognumber:35526 institutioncode:MSB" ; Times: 1
+	Query: "American Beaver" ; Times: 1
+	Query: "distance(location,geopoint(44.6766598036737,-93.415851845333))&lt;11614" ; Times: 1
+	Query: "catalognumber:66171" ; Times: 1
+	Query: "95780" ; Times: 5
+	Query: "65362" ; Times: 1
+	Query: "98464" ; Times: 1
+	Query: "19696" ; Times: 1
+	Query: "nutria" ; Times: 1
+	Query: "coyote new mexico" ; Times: 2
+	Query: "american beaver" ; Times: 1
+	Query: "locality:Black Hills National Forest" ; Times: 2
+	Query: "MSB 25412" ; Times: 1
+	Query: "catalognumber:50355" ; Times: 1
+	Query: "52549" ; Times: 1
+	Query: "Gila intermedia" ; Times: 1
+	Query: "Fundulus grandis" ; Times: 1
+	Query: "MSB 25414" ; Times: 1
+	Query: "Pimephales promelas" ; Times: 1
+	Query: "catalognumber:33306" ; Times: 1
+	Query: "Ictalurus furcatus" ; Times: 1
+	Query: "specificepithet:intermedia genus:Gila" ; Times: 1
+	Query: "MSB 25450" ; Times: 1
+	Query: "99456" ; Times: 1
+	Query: "99457" ; Times: 1
+	Query: "11605" ; Times: 1
+	Query: "Gila bicolor" ; Times: 2
+	Query: "catalognumber:13728" ; Times: 1
+	Query: "catalognumber:5788" ; Times: 1
+	Query: "31224" ; Times: 1
+	Query: "59971" ; Times: 1
+	Query: "Cutthroat Trout" ; Times: 1
+	Query: "genus:astyanax stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "frog north america" ; Times: 1
+	Query: "39043" ; Times: 3
+	Query: "42139-1" ; Times: 1
+	Query: "64465" ; Times: 1
+	Query: "39047" ; Times: 1
+	Query: "odonata" ; Times: 2
+	Query: "dragonfly" ; Times: 2
+	Query: "ac-356" ; Times: 1
+	Query: "50623" ; Times: 4
+	Query: "79409" ; Times: 1
+	Query: "genus:chrosomus stateprovince:&#34;virginia&#34;" ; Times: 1
+	Query: "freshwater fish" ; Times: 1
+	Query: "James Bishop" ; Times: 2
+	Query: "49503" ; Times: 1
+	Query: "catalognumber:29294" ; Times: 2
+	Query: "Lethenteron" ; Times: 1
+	Query: "70092" ; Times: 1
+	Query: "15540" ; Times: 1
+	Query: "56785" ; Times: 1
+	Query: "percina nasuta" ; Times: 1
+	Query: "distance(location,geopoint(45.1023002453255,-93.167236335211))&lt;12793" ; Times: 1
+	Query: "Oncorhynchus clarki henshawi" ; Times: 27
+	Query: "catalognumber:6882" ; Times: 1
+	Query: "cyprinodontiformes cyprinodon order:Cyprinodontiformes hastissue:1" ; Times: 3
+	Query: "21294" ; Times: 1
+	Query: "county:&#34;Clark&#34; stateprovince:&#34;Arkansas&#34; collectioncode:Fish year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "88765" ; Times: 1
+	Query: "Catostomus insignis" ; Times: 1
+	Query: "catalognumber:83339 institutioncode:MSB" ; Times: 1
+	Query: "99460" ; Times: 2
+	Query: "catalognumber:18721" ; Times: 1
+	Query: "Cyprinodon macularius" ; Times: 1
+	Query: "64939" ; Times: 1
+	Query: "68899" ; Times: 1
+	Query: "Ictalurus sp." ; Times: 1
+	Query: "cyprinodontidae hastissue:1" ; Times: 3
+	Query: "lethenteron" ; Times: 1
+	Query: "50785" ; Times: 1
+	Query: "catalognumber:16943" ; Times: 1
+	Query: "cyprinodontiformes order:Cyprinodontiformes hastissue:1" ; Times: 2
+	Query: "94944" ; Times: 2
+	Query: "Poeciliopsis occidentalis" ; Times: 1
+	Query: "59215" ; Times: 1
+	Query: "catalognumber:35536 institutioncode:MSB" ; Times: 1
+	Query: "70533" ; Times: 1
+	Query: "pierce county fish" ; Times: 1
+	Query: "gila intermedia" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 30 (out of 1169 download events in this period)
+Total number of records downloaded: 1693
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 27
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-06 ; Times: 6
+	Date: 2018-06-05 ; Times: 9
+	Date: 2018-06-07 ; Times: 3
+	Date: 2018-06-11 ; Times: 2
+	Date: 2018-06-12 ; Times: 1
+	Date: 2018-06-04 ; Times: 1
+	Date: 2018-06-29 ; Times: 2
+	Date: 2018-06-19 ; Times: 1
+	Date: 2018-06-08 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "county:&#34;Clark&#34; stateprovince:&#34;Arkansas&#34; collectioncode:Fish year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "chihuahua" ; Times: 2
+	Query: "blue gill fish" ; Times: 1
+	Query: "bullfrog" ; Times: 3
+	Query: "Cutthroat Trout" ; Times: 2
+	Query: "hasmass:1" ; Times: 1
+	Query: "black bear" ; Times: 4
+	Query: "stateprovince:&#34;Arkansas&#34; collectioncode:Fish year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "coyote new mexico" ; Times: 1
+	Query: "oregon" ; Times: 1
+	Query: "frog" ; Times: 1
+	Query: "American Beaver" ; Times: 4
+	Query: "elephant" ; Times: 1
+	Query: "locality:Black Hills National Forest" ; Times: 1
+	Query: "pond turtle" ; Times: 1
+	Query: "rainbow trout" ; Times: 2
+	Query: "coyote" ; Times: 1
+	Query: "orca" ; Times: 2
+
+
+End of report.
