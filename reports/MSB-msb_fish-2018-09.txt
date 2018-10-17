@@ -1,0 +1,202 @@
+Report for Institution Code MSB, Resource msb_fish
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 192
+Number of records retrieved in searches: 3461
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 2
+	Country: Netherlands ; Times: 1
+	Country: Portugal ; Times: 5
+	Country: Mexico ; Times: 4
+	Country: France ; Times: 2
+	Country: United States ; Times: 151
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 6
+	Country: United Kingdom ; Times: 1
+	Country: Belgium ; Times: 17
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-23 ; Times: 1
+	Date: 2018-09-02 ; Times: 1
+	Date: 2018-09-25 ; Times: 3
+	Date: 2018-09-26 ; Times: 6
+	Date: 2018-09-01 ; Times: 4
+	Date: 2018-09-20 ; Times: 5
+	Date: 2018-09-21 ; Times: 4
+	Date: 2018-09-04 ; Times: 13
+	Date: 2018-09-05 ; Times: 3
+	Date: 2018-09-08 ; Times: 1
+	Date: 2018-09-09 ; Times: 1
+	Date: 2018-09-28 ; Times: 9
+	Date: 2018-09-30 ; Times: 4
+	Date: 2018-09-11 ; Times: 17
+	Date: 2018-09-10 ; Times: 6
+	Date: 2018-09-13 ; Times: 36
+	Date: 2018-09-12 ; Times: 1
+	Date: 2018-09-14 ; Times: 2
+	Date: 2018-09-17 ; Times: 18
+	Date: 2018-09-16 ; Times: 6
+	Date: 2018-09-19 ; Times: 2
+	Date: 2018-09-18 ; Times: 2
+	Date: 2018-09-27 ; Times: 25
+	Date: 2018-09-06 ; Times: 16
+	Date: 2018-09-07 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "msb 53355" ; Times: 1
+	Query: "scientificname:(Lepisosteus platostomus) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Cyprinodon variegatus) country:United States mappable:1" ; Times: 4
+	Query: "msb 53354" ; Times: 1
+	Query: "catalognumber:58326 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:87485 institutioncode:MSB" ; Times: 2
+	Query: "astyanax cave" ; Times: 1
+	Query: "Pimephales promelas" ; Times: 1
+	Query: "43401" ; Times: 1
+	Query: "catalognumber:87462 institutioncode:MSB" ; Times: 1
+	Query: "Gambusia nobilis" ; Times: 2
+	Query: "specificepithet:latipinnis genus:Catostomus county:&#34;Coconino&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "catalognumber:58325 institutioncode:MSB" ; Times: 2
+	Query: "scientificname:(Lucania parva) country:United States mappable:1" ; Times: 3
+	Query: "22579" ; Times: 1
+	Query: "14840" ; Times: 1
+	Query: "80729" ; Times: 1
+	Query: "county:&#34;sheridan&#34; stateprovince:&#34;wyoming&#34;" ; Times: 1
+	Query: "Poecilia reticulata" ; Times: 1
+	Query: "catalognumber:16427 institutioncode:MSB" ; Times: 2
+	Query: "carlsbad caverns" ; Times: 3
+	Query: "Oncorhynchus kisutch" ; Times: 1
+	Query: "scientificname:(Etheostoma exile) country:United States mappable:1" ; Times: 1
+	Query: "cliff new mexico" ; Times: 1
+	Query: "scientificname:(Semotilus corporalis) country:United States mappable:1" ; Times: 1
+	Query: "003-95" ; Times: 1
+	Query: "catalognumber:78999 institutioncode:MSB" ; Times: 1
+	Query: "34893-1" ; Times: 1
+	Query: "Centropomus undecimalis" ; Times: 1
+	Query: "49597" ; Times: 1
+	Query: "scientificname:(Oncorhynchus gorbuscha) country:United States mappable:1" ; Times: 1
+	Query: "Reading" ; Times: 1
+	Query: "salvelinus malma" ; Times: 1
+	Query: "scientificname:(Notropis heterolepis) country:United States mappable:1" ; Times: 1
+	Query: "lucania goodei" ; Times: 1
+	Query: "scientificname:(Hiodon alosoides) country:United States mappable:1" ; Times: 1
+	Query: "Polyodon spathula" ; Times: 2
+	Query: "catalognumber:6018 institutioncode:MSB" ; Times: 1
+	Query: "msb 53348" ; Times: 1
+	Query: "scientificname:(Oncorhynchus nerka) country:United States mappable:1" ; Times: 1
+	Query: "Oncorhynchus clarki henshawi" ; Times: 18
+	Query: "scientificname:(Couesius plumbeus) country:United States mappable:1" ; Times: 1
+	Query: "MSB 58334" ; Times: 2
+	Query: "catalognumber:41858" ; Times: 1
+	Query: "catalognumber:49875 institutioncode:MSB" ; Times: 1
+	Query: "michigan state" ; Times: 1
+	Query: "14042" ; Times: 1
+	Query: "scientificname:(Ictiobus bubalus) country:United States mappable:1" ; Times: 2
+	Query: "catalognumber:74965 institutioncode:MSB" ; Times: 1
+	Query: "catalognumber:27527 institutioncode:MSB" ; Times: 1
+	Query: "MSB 81285" ; Times: 1
+	Query: "catalognumber:64943 institutioncode:MSB" ; Times: 1
+	Query: "&#34;Lucania goodei&#34;" ; Times: 2
+	Query: "carlsbad cavern" ; Times: 1
+	Query: "san fransisco" ; Times: 1
+	Query: "95155" ; Times: 1
+	Query: "95154" ; Times: 1
+	Query: "95157" ; Times: 1
+	Query: "95156" ; Times: 1
+	Query: "scientificname:(Salvelinus namaycush) country:United States mappable:1" ; Times: 1
+	Query: "msb 53338" ; Times: 1
+	Query: "body size" ; Times: 1
+	Query: "Salvelinus malma" ; Times: 1
+	Query: "Msb 27837" ; Times: 1
+	Query: "lake erie" ; Times: 1
+	Query: "Squatina squatina" ; Times: 1
+	Query: "MSB 53305" ; Times: 1
+	Query: "MSB 52345" ; Times: 1
+	Query: "river otter" ; Times: 1
+	Query: "catalognumber:87492 institutioncode:MSB" ; Times: 2
+	Query: "devil" ; Times: 1
+	Query: "catalognumber:58328 institutioncode:MSB" ; Times: 2
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "msb 53328" ; Times: 1
+	Query: "catalognumber:85631 institutioncode:MSB" ; Times: 1
+	Query: "scientificname:(Nocomis micropogon) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:58330 institutioncode:MSB" ; Times: 2
+	Query: "(yaqui)" ; Times: 1
+	Query: "33513" ; Times: 1
+	Query: "Carassius auratus" ; Times: 2
+	Query: "gambusia nobilis" ; Times: 2
+	Query: "La Joya" ; Times: 2
+	Query: "scientificname:(Platygobio gracilis) country:United States mappable:1" ; Times: 4
+	Query: "red-eared slider" ; Times: 1
+	Query: "Boreogadus saida mappable:1" ; Times: 16
+	Query: "scientificname:(Exoglossum maxillingua) country:United States mappable:1" ; Times: 1
+	Query: "Salmo" ; Times: 1
+	Query: "catalognumber:49876 institutioncode:MSB" ; Times: 1
+	Query: "scientificname:(Poecilia latipinna) country:United States mappable:1" ; Times: 2
+	Query: "Msb 74662" ; Times: 1
+	Query: "j 808" ; Times: 1
+	Query: "catalognumber:53348 institutioncode:MSB" ; Times: 2
+	Query: "(B-16792 16792)" ; Times: 1
+	Query: "vntype:specimen locality:Carlsbad Caverns county:&#34;Eddy County&#34; stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34; continent:North America" ; Times: 2
+	Query: "MSB 74965" ; Times: 6
+	Query: "24094" ; Times: 1
+	Query: "Salmo sp" ; Times: 1
+	Query: "oklahoma state university" ; Times: 1
+	Query: "scientificname:(Clinostomus elongatus) country:United States mappable:1" ; Times: 1
+	Query: "99925" ; Times: 1
+	Query: "MSB 61426" ; Times: 2
+	Query: "93278" ; Times: 1
+	Query: "43935" ; Times: 1
+	Query: "scientificname:(Lucania goodei) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Lepisosteus osseus) country:United States mappable:1" ; Times: 3
+	Query: "locality:ontario year &gt;= 1938 year &lt;= 1938" ; Times: 1
+	Query: "Clupea harengus" ; Times: 2
+	Query: "scientificname:(Moxostoma anisurum) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:59437" ; Times: 1
+	Query: "catalognumber:41012 institutioncode:MSB" ; Times: 1
+	Query: "R 15654" ; Times: 1
+	Query: "scientificname:(Percopsis omiscomaycus) country:United States mappable:1" ; Times: 1
+	Query: "MSB 53759" ; Times: 1
+	Query: "MSB 53758" ; Times: 1
+	Query: "catalognumber:13145 institutioncode:MSB" ; Times: 1
+	Query: "prairie dog" ; Times: 2
+	Query: "catalognumber:27513 institutioncode:MSB" ; Times: 1
+	Query: "catalognumber:87484 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:87486 institutioncode:MSB" ; Times: 2
+	Query: "MSB 82218" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 846 download events in this period)
+Total number of records downloaded: 594
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-04 ; Times: 1
+	Date: 2018-09-26 ; Times: 1
+	Date: 2018-09-27 ; Times: 1
+	Date: 2018-09-06 ; Times: 4
+	Date: 2018-09-07 ; Times: 2
+	Date: 2018-09-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "racoon" ; Times: 1
+	Query: "carlsbad cavern" ; Times: 1
+	Query: "county:&#34;pennington&#34; stateprovince:&#34;south dakota&#34;" ; Times: 1
+	Query: "bullfrog" ; Times: 1
+	Query: "hasmass:1" ; Times: 1
+	Query: "Gambusia nobilis" ; Times: 2
+	Query: "carlsbad caverns" ; Times: 1
+	Query: "river otter" ; Times: 1
+	Query: "continent:South America" ; Times: 1
+
+
+End of report.
