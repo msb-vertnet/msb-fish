@@ -1,0 +1,265 @@
+Report for Institution Code MSB, Resource msb_fish
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 313
+Number of records retrieved in searches: 958
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 286
+	Country: Ireland ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: Unknown ; Times: 9
+	Country: South Africa ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 4
+	Country: Peru ; Times: 1
+	Country: Colombia ; Times: 4
+	Country: New Zealand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-31 ; Times: 3
+	Date: 2018-10-04 ; Times: 6
+	Date: 2018-10-05 ; Times: 3
+	Date: 2018-10-06 ; Times: 1
+	Date: 2018-10-07 ; Times: 2
+	Date: 2018-10-01 ; Times: 33
+	Date: 2018-10-02 ; Times: 177
+	Date: 2018-10-03 ; Times: 6
+	Date: 2018-10-30 ; Times: 8
+	Date: 2018-10-22 ; Times: 1
+	Date: 2018-10-23 ; Times: 6
+	Date: 2018-10-20 ; Times: 1
+	Date: 2018-10-21 ; Times: 2
+	Date: 2018-10-26 ; Times: 7
+	Date: 2018-10-27 ; Times: 3
+	Date: 2018-10-24 ; Times: 4
+	Date: 2018-10-25 ; Times: 3
+	Date: 2018-10-28 ; Times: 2
+	Date: 2018-10-29 ; Times: 7
+	Date: 2018-10-08 ; Times: 1
+	Date: 2018-10-09 ; Times: 2
+	Date: 2018-10-19 ; Times: 1
+	Date: 2018-10-18 ; Times: 9
+	Date: 2018-10-13 ; Times: 1
+	Date: 2018-10-12 ; Times: 1
+	Date: 2018-10-11 ; Times: 3
+	Date: 2018-10-10 ; Times: 3
+	Date: 2018-10-17 ; Times: 3
+	Date: 2018-10-16 ; Times: 8
+	Date: 2018-10-15 ; Times: 5
+	Date: 2018-10-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "rana catesbiana" ; Times: 1
+	Query: "53793" ; Times: 1
+	Query: "catalognumber:73957 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:73961 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:43633 institutioncode:MSB" ; Times: 2
+	Query: "american badger" ; Times: 1
+	Query: "catalognumber:74897 institutioncode:MSB" ; Times: 2
+	Query: "54116" ; Times: 1
+	Query: "catalognumber:55764 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:75844 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:56719 institutioncode:MSB" ; Times: 2
+	Query: "ghost fish" ; Times: 1
+	Query: "catalognumber:51140 institutioncode:MSB" ; Times: 5
+	Query: "catalognumber:90219 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:74568 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:83409 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:75738 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:75509 institutioncode:MSB" ; Times: 2
+	Query: "(stomach gut contents)" ; Times: 1
+	Query: "catalognumber:75511 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:74936 institutioncode:MSB" ; Times: 2
+	Query: "genus:Catostomus county:&#34;Apache&#34; stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "catalognumber:75505 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:83419 institutioncode:MSB" ; Times: 2
+	Query: "75546" ; Times: 1
+	Query: "catalognumber:74886 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:26454" ; Times: 1
+	Query: "17713" ; Times: 1
+	Query: "Oncorhynchus clarki henshawi" ; Times: 27
+	Query: "catalognumber:56716 institutioncode:MSB" ; Times: 2
+	Query: "22838" ; Times: 1
+	Query: "MSB 93101" ; Times: 1
+	Query: "catalognumber:71965 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:55765 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:74965 institutioncode:MSB" ; Times: 1
+	Query: "catalognumber:83495 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:90205 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:71956 institutioncode:MSB" ; Times: 2
+	Query: "River otter" ; Times: 1
+	Query: "catalognumber:72700 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:51132 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:6579 institutioncode:MSB" ; Times: 3
+	Query: "20614" ; Times: 2
+	Query: "catalognumber:41430 institutioncode:MSB" ; Times: 1
+	Query: "catalognumber:74964 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:73955 institutioncode:MSB" ; Times: 2
+	Query: "elephant bird" ; Times: 1
+	Query: "catalognumber:56704 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:73966 institutioncode:MSB" ; Times: 2
+	Query: "vntype:specimen locality:Carlsbad Caverns county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34; continent:North America" ; Times: 1
+	Query: "catalognumber:73953 institutioncode:MSB" ; Times: 2
+	Query: "12394" ; Times: 1
+	Query: "catalognumber:74932 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:82183 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:74561 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:86381 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:73967 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:73958 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:55767 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:74669 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:69322 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:75495 institutioncode:MSB" ; Times: 2
+	Query: "Erythrogaster Ohio" ; Times: 1
+	Query: "catalognumber:73948 institutioncode:MSB" ; Times: 2
+	Query: "MSB 70575" ; Times: 1
+	Query: "Oncorhynchus mykiss gairdneri mappable:1" ; Times: 1
+	Query: "A-26050" ; Times: 1
+	Query: "catalognumber:61426 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:53321 institutioncode:MSB" ; Times: 2
+	Query: "63225" ; Times: 1
+	Query: "catalognumber:43630 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:93101 institutioncode:MSB" ; Times: 1
+	Query: "vntype:specimen catalognumber:43620" ; Times: 1
+	Query: "catalognumber:75492 institutioncode:MSB" ; Times: 2
+	Query: "fish photographs" ; Times: 1
+	Query: "genus:Catostomus county:&#34;Coconino&#34; stateprovince:&#34;Arizona&#34;" ; Times: 5
+	Query: "catalognumber:74926 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:87573" ; Times: 1
+	Query: "catalognumber:75832 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:77903 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:74663 institutioncode:MSB" ; Times: 2
+	Query: "80729" ; Times: 1
+	Query: "catalognumber:51133 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:43631 institutioncode:MSB" ; Times: 2
+	Query: "24128" ; Times: 2
+	Query: "catalognumber:90206 institutioncode:MSB" ; Times: 4
+	Query: "catalognumber:69324 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:56705 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:55699 institutioncode:MSB" ; Times: 2
+	Query: "la joya" ; Times: 1
+	Query: "catalognumber:74885 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:53325 institutioncode:MSB" ; Times: 2
+	Query: "Carlsbad Caverns vntype:specimen county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34; continent:North America" ; Times: 1
+	Query: "catalognumber:53341 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:12187 institutioncode:MSB" ; Times: 2
+	Query: "32087" ; Times: 1
+	Query: "catalognumber:90216 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:73954 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:90913" ; Times: 1
+	Query: "catalognumber:74894 institutioncode:MSB" ; Times: 2
+	Query: "53280" ; Times: 2
+	Query: "77807" ; Times: 1
+	Query: "catalognumber:72135 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:56718 institutioncode:MSB" ; Times: 2
+	Query: "Oncorhynchus clarkii lewisi mappable:1" ; Times: 1
+	Query: "catalognumber:74983 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:56706 institutioncode:MSB" ; Times: 2
+	Query: "18237" ; Times: 1
+	Query: "15546" ; Times: 1
+	Query: "catalognumber:73968 institutioncode:MSB" ; Times: 1
+	Query: "genus:Catostomus county:&#34;County&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "rabbit" ; Times: 2
+	Query: "genus:Catostomus county:&#34;Navajo&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "catalognumber:89198 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:75499 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:46243 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:75835 institutioncode:MSB" ; Times: 2
+	Query: "23926" ; Times: 1
+	Query: "catalognumber:320 institutioncode:MSB" ; Times: 1
+	Query: "catalognumber:83399 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:90220 institutioncode:MSB" ; Times: 2
+	Query: "52230" ; Times: 1
+	Query: "catalognumber:83417 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:72070 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:72067 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:58334 institutioncode:MSB" ; Times: 2
+	Query: "j 808" ; Times: 1
+	Query: "catalognumber:74911" ; Times: 1
+	Query: "B-178" ; Times: 1
+	Query: "country:&#34;United States&#34; recordedby:B Arnold year &gt;= 1976 year &lt;= 2017" ; Times: 1
+	Query: "22350" ; Times: 1
+	Query: "(38429)" ; Times: 1
+	Query: "B Arnold" ; Times: 1
+	Query: "catalognumber:72119 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:4115" ; Times: 1
+	Query: "Etheostoma mariae" ; Times: 1
+	Query: "catalognumber:69325 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:77901 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:75831 institutioncode:MSB" ; Times: 2
+	Query: "Lactophrys quadricornis" ; Times: 1
+	Query: "catalognumber:75513 institutioncode:MSB" ; Times: 1
+	Query: "Carlsbad Caverns vntype:specimen county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34; continent:North America" ; Times: 2
+	Query: "rana chiricahuensis" ; Times: 1
+	Query: "catalognumber:73972 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:89460 institutioncode:MSB" ; Times: 1
+	Query: "17776" ; Times: 1
+	Query: "catalognumber:75491 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:69326 institutioncode:MSB" ; Times: 2
+	Query: "macrhybopsis" ; Times: 2
+	Query: "Notropis cornutus" ; Times: 2
+	Query: "22061" ; Times: 1
+	Query: "Rana chiricahuensis" ; Times: 2
+	Query: "catalognumber:72103 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:71957 institutioncode:MSB" ; Times: 2
+	Query: "Carlsbad Caverns" ; Times: 1
+	Query: "catalognumber:4470" ; Times: 1
+	Query: "catalognumber:56717 institutioncode:MSB" ; Times: 2
+	Query: "ghost" ; Times: 1
+	Query: "catalognumber:26827" ; Times: 1
+	Query: "catalognumber:43433 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:69323 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:89387 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:73960 institutioncode:MSB" ; Times: 2
+	Query: "(grunniens)" ; Times: 2
+	Query: "catalognumber:83456 institutioncode:MSB" ; Times: 1
+	Query: "catalognumber:74667 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:74662 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:73952 institutioncode:MSB" ; Times: 2
+	Query: "Balistes carolinensis" ; Times: 2
+	Query: "catalognumber:72697 institutioncode:MSB" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 1300 download events in this period)
+Total number of records downloaded: 11204
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Belgium ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-04 ; Times: 1
+	Date: 2018-10-23 ; Times: 1
+	Date: 2018-10-24 ; Times: 4
+	Date: 2018-10-03 ; Times: 2
+	Date: 2018-10-19 ; Times: 1
+	Date: 2018-10-18 ; Times: 2
+	Date: 2018-10-17 ; Times: 2
+	Date: 2018-10-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34; continent:North America" ; Times: 3
+	Query: "vntype:specimen county:&#34;Eddy&#34;" ; Times: 1
+	Query: "Astronotus ocellatus" ; Times: 1
+	Query: "Etheostoma mariae" ; Times: 1
+	Query: "Carlsbad Caverns vntype:specimen county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34; continent:North America" ; Times: 3
+	Query: "country:&#34;Venezuela&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34; continent:North America" ; Times: 1
+	Query: "aurea" ; Times: 1
+	Query: "vntype:specimen county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "locality:OH" ; Times: 1
+
+
+End of report.
