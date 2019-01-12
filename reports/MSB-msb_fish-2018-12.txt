@@ -1,0 +1,175 @@
+Report for Institution Code MSB, Resource msb_fish
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 171
+Number of records retrieved in searches: 7859
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 16
+	Country: France ; Times: 20
+	Country: United States ; Times: 121
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 3
+	Country: Switzerland ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-06 ; Times: 49
+	Date: 2018-12-01 ; Times: 1
+	Date: 2018-12-02 ; Times: 5
+	Date: 2018-12-09 ; Times: 3
+	Date: 2018-12-03 ; Times: 12
+	Date: 2018-12-14 ; Times: 2
+	Date: 2018-12-21 ; Times: 2
+	Date: 2018-12-22 ; Times: 2
+	Date: 2018-12-23 ; Times: 2
+	Date: 2018-12-19 ; Times: 7
+	Date: 2018-12-18 ; Times: 2
+	Date: 2018-12-08 ; Times: 2
+	Date: 2018-12-30 ; Times: 9
+	Date: 2018-12-28 ; Times: 3
+	Date: 2018-12-29 ; Times: 1
+	Date: 2018-12-04 ; Times: 32
+	Date: 2018-12-05 ; Times: 9
+	Date: 2018-12-11 ; Times: 7
+	Date: 2018-12-10 ; Times: 5
+	Date: 2018-12-07 ; Times: 10
+	Date: 2018-12-12 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "scientificname:(Cyprinodon variegatus) country:United States mappable:1" ; Times: 4
+	Query: "8422" ; Times: 1
+	Query: "specificepithet:furcatus genus:ictalurus mappable:1" ; Times: 1
+	Query: "Salmo trutta mappable:1" ; Times: 1
+	Query: "specificepithet:gairdneri genus:salmo mappable:1" ; Times: 3
+	Query: "specificepithet:idella genus:ctenopharyngodon mappable:1" ; Times: 1
+	Query: "badger" ; Times: 1
+	Query: "34829 msb" ; Times: 1
+	Query: "5271" ; Times: 1
+	Query: "Gobiesox strumosus mappable:1" ; Times: 1
+	Query: "45926" ; Times: 3
+	Query: "Oncorhynchus nerka mappable:1" ; Times: 1
+	Query: "97312" ; Times: 1
+	Query: "Black River VIllage county:&#34;Eddy&#34;" ; Times: 1
+	Query: "catalognumber:11660" ; Times: 1
+	Query: "34884" ; Times: 1
+	Query: "34885" ; Times: 2
+	Query: "Oncorhynchus Keta" ; Times: 8
+	Query: "39747" ; Times: 1
+	Query: "specificepithet:trutta genus:salmo mappable:1" ; Times: 1
+	Query: "35439" ; Times: 1
+	Query: "Clupea harengus mappable:1" ; Times: 1
+	Query: "scientificname:(Notropis rubellus) country:United States mappable:1" ; Times: 2
+	Query: "46137" ; Times: 2
+	Query: "scientificname:(Etheostoma exile) country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:australis genus:Macrhybopsis" ; Times: 1
+	Query: "scientificname:(Semotilus corporalis) country:United States mappable:1" ; Times: 1
+	Query: "35923" ; Times: 1
+	Query: "25721" ; Times: 1
+	Query: "squatina californica" ; Times: 2
+	Query: "scientificname:(Oncorhynchus gorbuscha) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Notropis heterolepis) country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:mykiss genus:oncorhynchus mappable:1" ; Times: 3
+	Query: "catalognumber:55524 institutioncode:MSB" ; Times: 1
+	Query: "specificepithet:californica genus:squatina mappable:1" ; Times: 1
+	Query: "scientificname:(Oncorhynchus nerka) country:United States mappable:1" ; Times: 1
+	Query: "Oncorhynchus clarki henshawi" ; Times: 22
+	Query: "scientificname:(Couesius plumbeus) country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:commersoni genus:fistularia mappable:1" ; Times: 1
+	Query: "Remora remora mappable:1" ; Times: 1
+	Query: "46722" ; Times: 1
+	Query: "scientificname:(Salvelinus namaycush) country:United States mappable:1" ; Times: 1
+	Query: "33307" ; Times: 2
+	Query: "specificepithet:aestivalis genus:Macrhybopsis collectioncode:Fish" ; Times: 2
+	Query: "13139" ; Times: 1
+	Query: "catalognumber:12139" ; Times: 1
+	Query: "Sitting bull Falls county:&#34;Eddy&#34;" ; Times: 1
+	Query: "catalognumber:58295 institutioncode:MSB" ; Times: 1
+	Query: "19858" ; Times: 1
+	Query: "Platichthys stellatus mappable:1" ; Times: 1
+	Query: "37809" ; Times: 1
+	Query: "16431" ; Times: 3
+	Query: "cienega creek arizona" ; Times: 2
+	Query: "specificepithet:cyanoguttatum genus:cichlasoma mappable:1" ; Times: 1
+	Query: "scientificname:(Hiodon alosoides) country:United States mappable:1" ; Times: 1
+	Query: "98592" ; Times: 1
+	Query: "Petromyzon marinus mappable:1" ; Times: 1
+	Query: "specificepithet:holocanthus genus:diodon mappable:1" ; Times: 1
+	Query: "cienega creek" ; Times: 4
+	Query: "137 county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Cyprinus carpio" ; Times: 1
+	Query: "scientificname:(Nocomis micropogon) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:75513 institutioncode:MSB" ; Times: 1
+	Query: "10732" ; Times: 2
+	Query: "specificepithet:auratus genus:carassius mappable:1" ; Times: 1
+	Query: "Pungitius pungitius mappable:1" ; Times: 1
+	Query: "catalognumber:46243 institutioncode:MSB" ; Times: 1
+	Query: "scientificname:(Exoglossum maxillingua) country:United States mappable:1" ; Times: 1
+	Query: "Oncorhynchus kisutch mappable:1" ; Times: 1
+	Query: "msb 100222" ; Times: 3
+	Query: "specificepithet:grunniens genus:aplodinotus mappable:1" ; Times: 2
+	Query: "90486" ; Times: 1
+	Query: "Myoxocephalus quadricornis mappable:1" ; Times: 1
+	Query: "Oncorhynchus keta mappable:1" ; Times: 1
+	Query: "Morone saxatilis mappable:1" ; Times: 1
+	Query: "specificepithet:orientalis genus:thunnus mappable:1" ; Times: 1
+	Query: "Squatina californica mappable:1" ; Times: 1
+	Query: "scientificname:(Platygobio gracilis) country:United States mappable:1" ; Times: 4
+	Query: "Osmerus mordax mappable:1" ; Times: 1
+	Query: "32115" ; Times: 1
+	Query: "35646" ; Times: 1
+	Query: "Salvelinus malma mappable:1" ; Times: 1
+	Query: "specificepithet:oxyrinchus genus:isurus mappable:1" ; Times: 1
+	Query: "95015" ; Times: 1
+	Query: "catalognumber:75831 institutioncode:MSB" ; Times: 1
+	Query: "rana blairi" ; Times: 1
+	Query: "scientificname:(Clinostomus elongatus) country:United States mappable:1" ; Times: 1
+	Query: "Lota lota mappable:1" ; Times: 1
+	Query: "specificepithet:carpio genus:cyprinus mappable:1" ; Times: 5
+	Query: "scientificname:(Lucania goodei) country:United States mappable:1" ; Times: 1
+	Query: "19926" ; Times: 1
+	Query: "scientificname:(Moxostoma anisurum) country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:olivaris genus:pylodictis mappable:1" ; Times: 2
+	Query: "79993" ; Times: 1
+	Query: "Membras martinica mappable:1" ; Times: 1
+	Query: "scientificname:(Carpiodes carpio) country:United States mappable:1" ; Times: 7
+	Query: "10379" ; Times: 1
+	Query: "scientificname:(Percopsis omiscomaycus) country:United States mappable:1" ; Times: 1
+	Query: "45407" ; Times: 1
+	Query: "Microgadus tomcod mappable:1" ; Times: 1
+	Query: "catalognumber:44983" ; Times: 1
+	Query: "catalognumber:34901" ; Times: 1
+	Query: "Morone americana mappable:1" ; Times: 1
+	Query: "Oncorhynchus gorbuscha mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 809 download events in this period)
+Total number of records downloaded: 2453
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-07 ; Times: 2
+	Date: 2018-12-05 ; Times: 2
+	Date: 2018-12-10 ; Times: 2
+	Date: 2018-12-03 ; Times: 1
+	Date: 2018-12-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "rana blairi" ; Times: 1
+	Query: "specificepithet:australis genus:Macrhybopsis" ; Times: 2
+	Query: "Cyprinus carpio" ; Times: 1
+	Query: "locality:malheur stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "country:&#34;Mexico&#34; continent:America" ; Times: 3
+
+
+End of report.
