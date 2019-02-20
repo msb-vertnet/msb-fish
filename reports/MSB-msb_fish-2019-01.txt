@@ -1,0 +1,135 @@
+Report for Institution Code MSB, Resource msb_fish
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 79
+Number of records retrieved in searches: 300
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 6
+	Country: Netherlands ; Times: 13
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 2
+	Country: United States ; Times: 37
+	Country: Belgium ; Times: 8
+	Country: Argentina ; Times: 2
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-31 ; Times: 1
+	Date: 2019-01-23 ; Times: 1
+	Date: 2019-01-19 ; Times: 3
+	Date: 2019-01-14 ; Times: 4
+	Date: 2019-01-15 ; Times: 3
+	Date: 2019-01-30 ; Times: 4
+	Date: 2019-01-17 ; Times: 4
+	Date: 2019-01-10 ; Times: 1
+	Date: 2019-01-11 ; Times: 3
+	Date: 2019-01-12 ; Times: 1
+	Date: 2019-01-13 ; Times: 2
+	Date: 2019-01-03 ; Times: 4
+	Date: 2019-01-29 ; Times: 1
+	Date: 2019-01-28 ; Times: 3
+	Date: 2019-01-01 ; Times: 1
+	Date: 2019-01-07 ; Times: 6
+	Date: 2019-01-05 ; Times: 1
+	Date: 2019-01-04 ; Times: 9
+	Date: 2019-01-21 ; Times: 1
+	Date: 2019-01-20 ; Times: 2
+	Date: 2019-01-09 ; Times: 2
+	Date: 2019-01-22 ; Times: 1
+	Date: 2019-01-25 ; Times: 2
+	Date: 2019-01-24 ; Times: 1
+	Date: 2019-01-27 ; Times: 8
+	Date: 2019-01-08 ; Times: 3
+	Date: 2019-01-16 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Fort Indian town" ; Times: 1
+	Query: "Squatina squatina mappable:1" ; Times: 1
+	Query: "Mule Deer" ; Times: 1
+	Query: "22239" ; Times: 1
+	Query: "22236" ; Times: 1
+	Query: "22237" ; Times: 1
+	Query: "22235" ; Times: 1
+	Query: "Esox lucius" ; Times: 1
+	Query: "56758" ; Times: 1
+	Query: "catalognumber:4574 institutioncode:MSB" ; Times: 2
+	Query: "15285" ; Times: 1
+	Query: "Brazos County" ; Times: 2
+	Query: "16264" ; Times: 1
+	Query: "35646" ; Times: 1
+	Query: "3464" ; Times: 1
+	Query: "16565" ; Times: 1
+	Query: "catalognumber:98140" ; Times: 1
+	Query: "Clupea harengus mappable:1" ; Times: 1
+	Query: "77105" ; Times: 2
+	Query: "94787" ; Times: 1
+	Query: "mohave punctatus" ; Times: 1
+	Query: "devil" ; Times: 1
+	Query: "20371" ; Times: 1
+	Query: "48586" ; Times: 1
+	Query: "catalognumber:58295 institutioncode:MSB" ; Times: 2
+	Query: "21773" ; Times: 1
+	Query: "10812" ; Times: 1
+	Query: "(11966)" ; Times: 1
+	Query: "66527" ; Times: 1
+	Query: "93403" ; Times: 1
+	Query: "81173" ; Times: 1
+	Query: "92740" ; Times: 2
+	Query: "recordnumber:1057" ; Times: 1
+	Query: "Yellow Mud Turtle" ; Times: 1
+	Query: "catalognumber:74991" ; Times: 1
+	Query: "Connor Museum" ; Times: 1
+	Query: "18466" ; Times: 1
+	Query: "catalognumber:11956" ; Times: 3
+	Query: "92210" ; Times: 3
+	Query: "31794" ; Times: 1
+	Query: "15171" ; Times: 1
+	Query: "54461" ; Times: 1
+	Query: "catalognumber:79993" ; Times: 2
+	Query: "12623" ; Times: 1
+	Query: "22061" ; Times: 1
+	Query: "catalognumber:55524 institutioncode:MSB" ; Times: 1
+	Query: "26287" ; Times: 1
+	Query: "20284" ; Times: 1
+	Query: "trichoptera" ; Times: 1
+	Query: "22121" ; Times: 1
+	Query: "16408" ; Times: 1
+	Query: "catalognumber:5622" ; Times: 1
+	Query: "58523" ; Times: 1
+	Query: "Fundulus zebrinus" ; Times: 2
+	Query: "Dionda episcopa" ; Times: 1
+	Query: "catalognumber:58336 institutioncode:MSB" ; Times: 1
+	Query: "catalognumber:80031 institutioncode:MSB" ; Times: 2
+	Query: "35292" ; Times: 1
+	Query: "81094" ; Times: 1
+	Query: "recordnumber:1136" ; Times: 1
+	Query: "89347" ; Times: 1
+	Query: "fleming county:&#34;tompkins&#34; stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "43627" ; Times: 1
+	Query: "genus:astyanax stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "70516" ; Times: 1
+	Query: "15059" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 962 download events in this period)
+Total number of records downloaded: 55
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:astyanax stateprovince:&#34;texas&#34;" ; Times: 1
+
+
+End of report.
