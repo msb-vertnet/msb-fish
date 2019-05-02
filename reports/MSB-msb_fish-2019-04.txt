@@ -1,0 +1,200 @@
+Report for Institution Code MSB, Resource msb_fish
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 149
+Number of records retrieved in searches: 1209
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 17
+	Country: United States ; Times: 102
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 8
+	Country: United Kingdom ; Times: 4
+	Country: Switzerland ; Times: 6
+	Country: Sweden ; Times: 3
+	Country: Germany ; Times: 1
+	Country: Belgium ; Times: 2
+	Country: Norway ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 9
+	Date: 2019-04-19 ; Times: 5
+	Date: 2019-04-18 ; Times: 3
+	Date: 2019-04-23 ; Times: 7
+	Date: 2019-04-12 ; Times: 2
+	Date: 2019-04-11 ; Times: 6
+	Date: 2019-04-17 ; Times: 50
+	Date: 2019-04-16 ; Times: 6
+	Date: 2019-04-15 ; Times: 1
+	Date: 2019-04-14 ; Times: 1
+	Date: 2019-04-30 ; Times: 7
+	Date: 2019-04-01 ; Times: 1
+	Date: 2019-04-02 ; Times: 11
+	Date: 2019-04-03 ; Times: 1
+	Date: 2019-04-22 ; Times: 4
+	Date: 2019-04-05 ; Times: 2
+	Date: 2019-04-20 ; Times: 1
+	Date: 2019-04-26 ; Times: 9
+	Date: 2019-04-27 ; Times: 2
+	Date: 2019-04-24 ; Times: 7
+	Date: 2019-04-25 ; Times: 2
+	Date: 2019-04-29 ; Times: 5
+	Date: 2019-04-08 ; Times: 4
+	Date: 2019-04-09 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "47737" ; Times: 1
+	Query: "catalognumber:82913 institutioncode:MSB" ; Times: 1
+	Query: "75419" ; Times: 1
+	Query: "catalognumber:3194 institutioncode:MSB" ; Times: 1
+	Query: "59237" ; Times: 1
+	Query: "50360" ; Times: 1
+	Query: "catalognumber:17149 institutioncode:MSB" ; Times: 1
+	Query: "catalognumber:33072" ; Times: 1
+	Query: "48825" ; Times: 1
+	Query: "specificepithet:osculus genus:Rhinichthys stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "catalognumber:2589 institutioncode:MSB" ; Times: 1
+	Query: "catalognumber:7149 institutioncode:MSB" ; Times: 1
+	Query: "80729" ; Times: 3
+	Query: "catalognumber:33045" ; Times: 1
+	Query: "Clupea harengus mappable:1" ; Times: 2
+	Query: "52661" ; Times: 2
+	Query: "catalognumber:33041" ; Times: 1
+	Query: "poecilia reticulata" ; Times: 1
+	Query: "odonata" ; Times: 1
+	Query: "catalognumber:90043" ; Times: 1
+	Query: "catalognumber:31709" ; Times: 1
+	Query: "31709" ; Times: 1
+	Query: "catalognumber:25841 institutioncode:MSB" ; Times: 1
+	Query: "catalognumber:559 institutioncode:MSB" ; Times: 1
+	Query: "catalognumber:5231 institutioncode:MSB" ; Times: 1
+	Query: "catalognumber:32149 institutioncode:MSB" ; Times: 1
+	Query: "catalognumber:1297" ; Times: 2
+	Query: "catalognumber:5820 institutioncode:MSB" ; Times: 1
+	Query: "catalognumber:32293" ; Times: 1
+	Query: "51361" ; Times: 1
+	Query: "locality:Nebraska" ; Times: 1
+	Query: "49917" ; Times: 2
+	Query: "catalognumber:2701 institutioncode:MSB" ; Times: 1
+	Query: "35131" ; Times: 1
+	Query: "58395" ; Times: 2
+	Query: "35132" ; Times: 1
+	Query: "cutthroat trout" ; Times: 1
+	Query: "tarantula" ; Times: 1
+	Query: "Astyanax mexicanus" ; Times: 1
+	Query: "64422" ; Times: 1
+	Query: "33461" ; Times: 1
+	Query: "county:&#34;Kinney&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:22149 institutioncode:MSB" ; Times: 1
+	Query: "46954" ; Times: 1
+	Query: "county:&#34;Kinney&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "catalognumber:1358 institutioncode:MSB" ; Times: 1
+	Query: "catalognumber:47372 institutioncode:MSB" ; Times: 1
+	Query: "catalognumber:13216 institutioncode:MSB" ; Times: 1
+	Query: "Sander vitreus" ; Times: 4
+	Query: "18900" ; Times: 1
+	Query: "75298" ; Times: 1
+	Query: "catalognumber:52149 institutioncode:MSB" ; Times: 1
+	Query: "catalognumber:19204 institutioncode:MSB" ; Times: 1
+	Query: "specificepithet:parva genus:Lucania stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "81285" ; Times: 1
+	Query: "55269" ; Times: 3
+	Query: "55268" ; Times: 1
+	Query: "10653" ; Times: 1
+	Query: "86174" ; Times: 2
+	Query: "catalognumber:585 institutioncode:MSB" ; Times: 1
+	Query: "Brown trout" ; Times: 2
+	Query: "specificepithet:pandora genus:Gila stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "catalognumber:5531 institutioncode:MSB" ; Times: 1
+	Query: "catalognumber:25720 institutioncode:MSB" ; Times: 1
+	Query: "catalognumber:691 institutioncode:MSB" ; Times: 1
+	Query: "57104" ; Times: 1
+	Query: "57105" ; Times: 1
+	Query: "catalognumber:22510 institutioncode:MSB" ; Times: 1
+	Query: "30274" ; Times: 1
+	Query: "M-5742" ; Times: 1
+	Query: "57103" ; Times: 1
+	Query: "catalognumber:20864" ; Times: 2
+	Query: "catalognumber:48230 institutioncode:MSB" ; Times: 1
+	Query: "10313" ; Times: 2
+	Query: "catalognumber:43527" ; Times: 1
+	Query: "catalognumber:37704 institutioncode:MSB" ; Times: 1
+	Query: "catalognumber:71491 institutioncode:MSB" ; Times: 1
+	Query: "catalognumber:31940 institutioncode:MSB" ; Times: 1
+	Query: "catalognumber:3305 institutioncode:MSB" ; Times: 1
+	Query: "catalognumber:16857 institutioncode:MSB" ; Times: 1
+	Query: "(Chatfield)" ; Times: 1
+	Query: "astyanax mexicanus" ; Times: 3
+	Query: "specificepithet:erythrogaster stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "catalognumber:13846 institutioncode:MSB" ; Times: 1
+	Query: "catalognumber:33096" ; Times: 1
+	Query: "Boreogadus saida mappable:1" ; Times: 2
+	Query: "RM 4940" ; Times: 1
+	Query: "catalognumber:62811 institutioncode:MSB" ; Times: 1
+	Query: "36394" ; Times: 1
+	Query: "30033" ; Times: 2
+	Query: "catalognumber:10134 institutioncode:MSB" ; Times: 1
+	Query: "county:&#34;Kinney&#34; stateprovince:&#34;Texas&#34; institutioncode:MSB basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "catalognumber:9404 institutioncode:MSB" ; Times: 1
+	Query: "catalognumber:17893 institutioncode:MSB" ; Times: 1
+	Query: "35899" ; Times: 1
+	Query: "catalognumber:93172 institutioncode:MSB" ; Times: 1
+	Query: "catalognumber:705 institutioncode:MSB" ; Times: 1
+	Query: "catalognumber:63829 institutioncode:MSB" ; Times: 1
+	Query: "catalognumber:15808 institutioncode:MSB" ; Times: 1
+	Query: "cyprinid" ; Times: 1
+	Query: "catalognumber:3819 institutioncode:MSB" ; Times: 1
+	Query: "93566" ; Times: 1
+	Query: "catalognumber:517 institutioncode:MSB" ; Times: 1
+	Query: "25148" ; Times: 1
+	Query: "21264" ; Times: 2
+	Query: "catalognumber:13052 institutioncode:MSB" ; Times: 1
+	Query: "catalognumber:4713 institutioncode:MSB" ; Times: 1
+	Query: "MSB 67433" ; Times: 1
+	Query: "&#34;Sander vitreus&#34;" ; Times: 2
+	Query: "catalognumber:14663" ; Times: 1
+	Query: "catalognumber:42065 institutioncode:MSB" ; Times: 1
+	Query: "49924" ; Times: 3
+	Query: "catalognumber:15805 institutioncode:MSB" ; Times: 1
+	Query: "catalognumber:576 institutioncode:MSB" ; Times: 1
+	Query: "catalognumber:32540" ; Times: 1
+	Query: "(Deer Creek Colorado)" ; Times: 1
+	Query: "MSB 89863" ; Times: 2
+	Query: "Astyanax mexicanus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "53583" ; Times: 1
+	Query: "csu 1336" ; Times: 1
+	Query: "33026" ; Times: 1
+	Query: "soft shell turtle" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 1263 download events in this period)
+Total number of records downloaded: 17320
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 2
+	Date: 2019-04-23 ; Times: 1
+	Date: 2019-04-28 ; Times: 1
+	Date: 2019-04-10 ; Times: 1
+	Date: 2019-04-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Sander vitreus" ; Times: 1
+	Query: "specificepithet:parva genus:Lucania stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "class:Actinopterygii" ; Times: 1
+	Query: "80729" ; Times: 1
+	Query: "specificepithet:pandora genus:Gila stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "hastissue:1" ; Times: 1
+
+
+End of report.
