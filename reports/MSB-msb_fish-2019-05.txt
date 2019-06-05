@@ -1,0 +1,137 @@
+Report for Institution Code MSB, Resource msb_fish
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 147
+Number of records retrieved in searches: 3479
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 24
+	Country: United States ; Times: 79
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 4
+	Country: France ; Times: 18
+	Country: United Kingdom ; Times: 8
+	Country: Chile ; Times: 1
+	Country: Belgium ; Times: 5
+	Country: New Zealand ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-30 ; Times: 5
+	Date: 2019-05-31 ; Times: 6
+	Date: 2019-05-09 ; Times: 3
+	Date: 2019-05-08 ; Times: 2
+	Date: 2019-05-07 ; Times: 6
+	Date: 2019-05-06 ; Times: 16
+	Date: 2019-05-05 ; Times: 1
+	Date: 2019-05-02 ; Times: 3
+	Date: 2019-05-01 ; Times: 1
+	Date: 2019-05-25 ; Times: 7
+	Date: 2019-05-24 ; Times: 3
+	Date: 2019-05-27 ; Times: 2
+	Date: 2019-05-26 ; Times: 6
+	Date: 2019-05-21 ; Times: 4
+	Date: 2019-05-20 ; Times: 6
+	Date: 2019-05-23 ; Times: 12
+	Date: 2019-05-22 ; Times: 10
+	Date: 2019-05-29 ; Times: 20
+	Date: 2019-05-28 ; Times: 7
+	Date: 2019-05-18 ; Times: 4
+	Date: 2019-05-10 ; Times: 5
+	Date: 2019-05-11 ; Times: 1
+	Date: 2019-05-13 ; Times: 1
+	Date: 2019-05-16 ; Times: 9
+	Date: 2019-05-17 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "MSB 76886" ; Times: 1
+	Query: "31985" ; Times: 1
+	Query: "MSB 75587" ; Times: 1
+	Query: "scientificname:(Lepisosteus platostomus) country:United States mappable:1" ; Times: 1
+	Query: "54721" ; Times: 1
+	Query: "Triaenodon obesus" ; Times: 1
+	Query: "Squatina squatina" ; Times: 1
+	Query: "catalognumber:47387 institutioncode:MSB" ; Times: 2
+	Query: "MSB 53348" ; Times: 1
+	Query: "Schaus" ; Times: 2
+	Query: "MSB 76289" ; Times: 1
+	Query: "MSB 53549" ; Times: 1
+	Query: "catalognumber:43260 institutioncode:MSB" ; Times: 1
+	Query: "scientificname:(Oncorhynchus gorbuscha) country:United States mappable:1" ; Times: 1
+	Query: "43627" ; Times: 1
+	Query: "scientificname:(Notropis heterolepis) country:United States mappable:1" ; Times: 1
+	Query: "Gila intermedia" ; Times: 2
+	Query: "catalognumber:47410 institutioncode:MSB" ; Times: 2
+	Query: "59408" ; Times: 1
+	Query: "Isurus oxyrinchus" ; Times: 1
+	Query: "Diodon holocanthus mappable:1" ; Times: 16
+	Query: "39672" ; Times: 1
+	Query: "catalognumber:53893" ; Times: 1
+	Query: "cyprinodon rubrofluviatilis" ; Times: 1
+	Query: "91493" ; Times: 1
+	Query: "Cyprinus carpio" ; Times: 2
+	Query: "catalognumber:88258" ; Times: 1
+	Query: "47124" ; Times: 26
+	Query: "scientificname:(Oncorhynchus nerka) country:United States mappable:1" ; Times: 1
+	Query: "Rana chiricahuensis" ; Times: 2
+	Query: "Gambusia gaigei" ; Times: 1
+	Query: "46899" ; Times: 1
+	Query: "34885" ; Times: 1
+	Query: "Catostomus platyrhynchus" ; Times: 1
+	Query: "scientificname:(Lucania goodei) country:United States mappable:1" ; Times: 1
+	Query: "33485" ; Times: 1
+	Query: "33255" ; Times: 1
+	Query: "34130" ; Times: 1
+	Query: "0245" ; Times: 1
+	Query: "10408" ; Times: 1
+	Query: "Rana chiricahuensis institutioncode:MSB" ; Times: 1
+	Query: "34176" ; Times: 1
+	Query: "Gila chub" ; Times: 2
+	Query: "MSB 61509" ; Times: 1
+	Query: "MSB 57799" ; Times: 1
+	Query: "24880" ; Times: 1
+	Query: "catalognumber:43177 institutioncode:MSB" ; Times: 2
+	Query: "erythrogaster AND (Phoxinus)" ; Times: 1
+	Query: "catalognumber:53248 institutioncode:MSB" ; Times: 2
+	Query: "punctatus shoshone" ; Times: 1
+	Query: "Rana chiricahuensis mappable:1" ; Times: 14
+	Query: "catalognumber:47415 institutioncode:MSB" ; Times: 2
+	Query: "17485" ; Times: 1
+	Query: "31934" ; Times: 1
+	Query: "MSB 47399" ; Times: 2
+	Query: "88258" ; Times: 1
+	Query: "39150" ; Times: 1
+	Query: "scientificname:(Exoglossum maxillingua) country:United States mappable:1" ; Times: 1
+	Query: "recordnumber:396" ; Times: 1
+	Query: "MSB 24060" ; Times: 1
+	Query: "76486" ; Times: 1
+	Query: "MSB 73966" ; Times: 1
+	Query: "Isurus oxyrinchus mappable:1" ; Times: 2
+	Query: "catalognumber:47391 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:47444 institutioncode:MSB" ; Times: 2
+	Query: "scientificname:(Salvelinus namaycush) country:United States mappable:1" ; Times: 1
+	Query: "odonata" ; Times: 1
+	Query: "catalognumber:43258 institutioncode:MSB" ; Times: 2
+	Query: "Squatina californica" ; Times: 1
+	Query: "Salmo trutta" ; Times: 5
+	Query: "18900" ; Times: 1
+	Query: "83059" ; Times: 1
+	Query: "MSB 62068" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 940 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
