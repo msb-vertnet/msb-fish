@@ -1,0 +1,181 @@
+Report for Institution Code MSB, Resource msb_fish
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 141
+Number of records retrieved in searches: 1059
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Netherlands ; Times: 3
+	Country: Mexico ; Times: 16
+	Country: Unknown ; Times: 3
+	Country: Nepal ; Times: 2
+	Country: United States ; Times: 108
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 3
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 28
+	Date: 2019-07-18 ; Times: 1
+	Date: 2019-07-08 ; Times: 30
+	Date: 2019-07-12 ; Times: 6
+	Date: 2019-07-10 ; Times: 1
+	Date: 2019-07-11 ; Times: 2
+	Date: 2019-07-30 ; Times: 4
+	Date: 2019-07-17 ; Times: 9
+	Date: 2019-07-15 ; Times: 2
+	Date: 2019-07-02 ; Times: 5
+	Date: 2019-07-29 ; Times: 2
+	Date: 2019-07-23 ; Times: 1
+	Date: 2019-07-22 ; Times: 4
+	Date: 2019-07-20 ; Times: 1
+	Date: 2019-07-27 ; Times: 1
+	Date: 2019-07-26 ; Times: 1
+	Date: 2019-07-25 ; Times: 9
+	Date: 2019-07-24 ; Times: 2
+	Date: 2019-07-01 ; Times: 1
+	Date: 2019-07-16 ; Times: 12
+	Date: 2019-07-03 ; Times: 5
+	Date: 2019-07-28 ; Times: 1
+	Date: 2019-07-04 ; Times: 3
+	Date: 2019-07-07 ; Times: 6
+	Date: 2019-07-06 ; Times: 1
+	Date: 2019-07-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Cottus specificepithet:aleuticus" ; Times: 1
+	Query: "genus:Macrhybopsis stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "genus:Ictiobus specificepithet:bubalus" ; Times: 1
+	Query: "MSB 8318" ; Times: 2
+	Query: "catalognumber:11983" ; Times: 1
+	Query: "South Mills river" ; Times: 1
+	Query: "catalognumber:63611" ; Times: 1
+	Query: "catalognumber:63610" ; Times: 3
+	Query: "MSB 75509" ; Times: 1
+	Query: "MSB 75505" ; Times: 1
+	Query: "Etheostoma variatum" ; Times: 1
+	Query: "scientificname:(Prosopium cylindraceum) country:United States mappable:1" ; Times: 1
+	Query: "MSB 48205" ; Times: 1
+	Query: "catalognumber:82218 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:7000 institutioncode:MSB" ; Times: 1
+	Query: "vntype:specimen genus:oncorhynchus haslength:1" ; Times: 1
+	Query: "scientificname:(Thymallus arcticus) country:United States mappable:1" ; Times: 1
+	Query: "28317 FISH" ; Times: 1
+	Query: "54-213" ; Times: 1
+	Query: "msb 8877" ; Times: 1
+	Query: "Popenaias popeii mappable:1" ; Times: 1
+	Query: "W 65-52" ; Times: 1
+	Query: "nutria" ; Times: 2
+	Query: "99109" ; Times: 1
+	Query: "acipenser" ; Times: 1
+	Query: "catalognumber:53758 institutioncode:MSB" ; Times: 1
+	Query: "genus:Cottus specificepithet:cognatus" ; Times: 1
+	Query: "MSB 75491" ; Times: 4
+	Query: "MSB 75492" ; Times: 1
+	Query: "MSB 75495" ; Times: 1
+	Query: "Collins AND Island" ; Times: 1
+	Query: "MSB 75499" ; Times: 1
+	Query: "genus:Cottus specificepithet:hypselurus" ; Times: 1
+	Query: "MSB 36483" ; Times: 1
+	Query: "genus:Dionda stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Opsopoeodus" ; Times: 1
+	Query: "17380" ; Times: 1
+	Query: "20059" ; Times: 1
+	Query: "77592" ; Times: 1
+	Query: "catalognumber:13244" ; Times: 1
+	Query: "catalognumber:6999 institutioncode:MSB" ; Times: 2
+	Query: "scientificname:(Couesius plumbeus) country:United States mappable:1" ; Times: 1
+	Query: "MSB 58334" ; Times: 1
+	Query: "MSB 70743" ; Times: 1
+	Query: "northern harrier" ; Times: 1
+	Query: "29221" ; Times: 1
+	Query: "yellow mud turtle" ; Times: 1
+	Query: "genus:Macrhybopsis" ; Times: 1
+	Query: "23148" ; Times: 1
+	Query: "0453" ; Times: 1
+	Query: "76722" ; Times: 1
+	Query: "86476" ; Times: 1
+	Query: "90369" ; Times: 1
+	Query: "gbifdatasetid:a2254f58-8bbf-41e6-ac4e-03d1683e0ce5" ; Times: 1
+	Query: "genus:Colossoma specificepithet:macropomum" ; Times: 1
+	Query: "locality:apache creek county:&#34;catron&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "scientificname:(Hiodon alosoides) country:United States mappable:1" ; Times: 1
+	Query: "62264" ; Times: 2
+	Query: "59041" ; Times: 1
+	Query: "Ictalurus furcatus" ; Times: 1
+	Query: "42-480" ; Times: 2
+	Query: "catalognumber:2216 institutioncode:MSB" ; Times: 1
+	Query: "Collins AND Island AND 1978" ; Times: 1
+	Query: "0671" ; Times: 1
+	Query: "28317" ; Times: 1
+	Query: "catalognumber:75901" ; Times: 1
+	Query: "catalognumber:53756 institutioncode:MSB" ; Times: 1
+	Query: "Hypophthalmichthys nobilis" ; Times: 1
+	Query: "J. T. Peterson" ; Times: 1
+	Query: "vntype:specimen (spirit)" ; Times: 1
+	Query: "scientificname:(Gila atraria) country:United States mappable:1" ; Times: 1
+	Query: "genus:Cottus specificepithet:beldingii" ; Times: 1
+	Query: "genus:Notemigonus" ; Times: 1
+	Query: "29240" ; Times: 3
+	Query: "MSB 70697" ; Times: 2
+	Query: "vntype:specimen genus:oncorhynchus lengthinmm &gt;= 200 lengthinmm &lt;= 10000 haslength:1" ; Times: 1
+	Query: "catalognumber:82216 institutioncode:MSB" ; Times: 1
+	Query: "MSB 70738" ; Times: 1
+	Query: "genus:Anguilla specificepithet:rostrata" ; Times: 1
+	Query: "genus:Hypomesus specificepithet:olidus" ; Times: 1
+	Query: "catalognumber:53760 institutioncode:MSB" ; Times: 1
+	Query: "genus:Clupea specificepithet:harengus" ; Times: 1
+	Query: "23937" ; Times: 1
+	Query: "genus:Osmerus specificepithet:mordax" ; Times: 1
+	Query: "catalognumber:78979" ; Times: 1
+	Query: "MSB 51140" ; Times: 2
+	Query: "catalognumber:83337 institutioncode:MSB" ; Times: 1
+	Query: "catalognumber:87093 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:53759 institutioncode:MSB" ; Times: 1
+	Query: "recordedby:keen j" ; Times: 1
+	Query: "locality:Isla Santa Catalina" ; Times: 1
+	Query: "catalognumber:83329 institutioncode:MSB" ; Times: 1
+	Query: "genus:Acantharchus specificepithet:pomotis" ; Times: 1
+	Query: "scientificname:(Percina nasuta) country:United States mappable:1" ; Times: 1
+	Query: "Rana chiricahuensis" ; Times: 10
+	Query: "MSB 46243" ; Times: 2
+	Query: "catalognumber:15911" ; Times: 2
+	Query: "family:Lamnidae haslength:1" ; Times: 3
+	Query: "genus:Etheostoma specificepithet:maculatum" ; Times: 1
+	Query: "catalognumber:76214 institutioncode:MSB" ; Times: 1
+	Query: "recordedby:keen" ; Times: 1
+	Query: "genus:Ameiurus" ; Times: 1
+	Query: "MSB 75511" ; Times: 1
+	Query: "scientificname:(Gila cypha) country:United States mappable:1" ; Times: 1
+	Query: "MSB 75513" ; Times: 1
+	Query: "scientificname:(Gila nigrescens) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Gila elegans) country:United States mappable:1" ; Times: 1
+	Query: "MSB 51133" ; Times: 2
+	Query: "MSB 51132" ; Times: 2
+	Query: "genus:Macrhybopsis stateprovince:&#34;Texas&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 985 download events in this period)
+Total number of records downloaded: 3724
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-02 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Macrhybopsis stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "genus:Macrhybopsis" ; Times: 2
+	Query: "genus:Macrhybopsis stateprovince:&#34;Texas&#34;" ; Times: 1
+
+
+End of report.
