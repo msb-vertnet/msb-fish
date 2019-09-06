@@ -1,0 +1,171 @@
+Report for Institution Code MSB, Resource msb_fish
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 150
+Number of records retrieved in searches: 884
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 125
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: India ; Times: 1
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 13
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Argentina ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-27 ; Times: 5
+	Date: 2019-08-28 ; Times: 3
+	Date: 2019-08-29 ; Times: 5
+	Date: 2019-08-01 ; Times: 1
+	Date: 2019-08-02 ; Times: 2
+	Date: 2019-08-03 ; Times: 2
+	Date: 2019-08-04 ; Times: 1
+	Date: 2019-08-05 ; Times: 16
+	Date: 2019-08-06 ; Times: 1
+	Date: 2019-08-07 ; Times: 4
+	Date: 2019-08-08 ; Times: 2
+	Date: 2019-08-09 ; Times: 2
+	Date: 2019-08-25 ; Times: 1
+	Date: 2019-08-22 ; Times: 4
+	Date: 2019-08-23 ; Times: 53
+	Date: 2019-08-20 ; Times: 20
+	Date: 2019-08-21 ; Times: 4
+	Date: 2019-08-16 ; Times: 1
+	Date: 2019-08-15 ; Times: 8
+	Date: 2019-08-14 ; Times: 1
+	Date: 2019-08-13 ; Times: 2
+	Date: 2019-08-12 ; Times: 2
+	Date: 2019-08-11 ; Times: 1
+	Date: 2019-08-31 ; Times: 1
+	Date: 2019-08-30 ; Times: 2
+	Date: 2019-08-19 ; Times: 4
+	Date: 2019-08-18 ; Times: 1
+	Date: 2019-08-26 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "21246 institutioncode:MSB" ; Times: 2
+	Query: "Esox lucius" ; Times: 1
+	Query: "catalognumber:66576 institutioncode:MSB" ; Times: 2
+	Query: "South Mills river" ; Times: 1
+	Query: "Jacob fork river" ; Times: 1
+	Query: "Diodon holocanthus mappable:1" ; Times: 2
+	Query: "(76214) institutioncode:MSB" ; Times: 2
+	Query: "A-88643" ; Times: 1
+	Query: "leopard frog" ; Times: 1
+	Query: "catalognumber:40056 institutioncode:MSB" ; Times: 4
+	Query: "20284" ; Times: 1
+	Query: "Preservation of Fishes" ; Times: 1
+	Query: "24469 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:66578 institutioncode:MSB" ; Times: 2
+	Query: "71277" ; Times: 1
+	Query: "catalognumber:66570 institutioncode:MSB" ; Times: 2
+	Query: "Ictalurus lupus" ; Times: 3
+	Query: "28134" ; Times: 1
+	Query: "snail mexico" ; Times: 1
+	Query: "catalognumber:MSB 42658 institutioncode:MSB" ; Times: 1
+	Query: "catalognumber:83331 institutioncode:MSB" ; Times: 2
+	Query: "(29349) institutioncode:MSB" ; Times: 1
+	Query: "catalognumber:40052 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:71722 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:66815" ; Times: 1
+	Query: "Astyanax fasciatus" ; Times: 1
+	Query: "19902 institutioncode:MSB" ; Times: 2
+	Query: "Nature camp" ; Times: 1
+	Query: "Astronotus ocellatus" ; Times: 1
+	Query: "Ictalurus pricei" ; Times: 2
+	Query: "catalognumber:71342 institutioncode:MSB" ; Times: 2
+	Query: "24771" ; Times: 3
+	Query: "Astyanax mexicanus" ; Times: 1
+	Query: "29919" ; Times: 1
+	Query: "56339" ; Times: 1
+	Query: "22754 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:40050 institutioncode:MSB" ; Times: 2
+	Query: "recordnumber:244" ; Times: 1
+	Query: "catalognumber:48611" ; Times: 1
+	Query: "catalognumber:64574 institutioncode:MSB" ; Times: 2
+	Query: "21253 institutioncode:MSB" ; Times: 2
+	Query: "Lepomis humilis" ; Times: 1
+	Query: "29929" ; Times: 1
+	Query: "catalognumber:70048 institutioncode:MSB" ; Times: 2
+	Query: "Salvelinus malma" ; Times: 1
+	Query: "catalognumber:23007 institutioncode:MSB" ; Times: 4
+	Query: "catalognumber:46100" ; Times: 1
+	Query: "catalognumber:41532 institutioncode:MSB" ; Times: 1
+	Query: "30879" ; Times: 1
+	Query: "catalognumber:66577 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:64573 institutioncode:MSB" ; Times: 2
+	Query: "40513" ; Times: 1
+	Query: "Carrizo Creek arizona" ; Times: 1
+	Query: "Ictalurus furcatus" ; Times: 1
+	Query: "7159" ; Times: 1
+	Query: "catalognumber:66574 institutioncode:MSB" ; Times: 2
+	Query: "67129" ; Times: 1
+	Query: "24292" ; Times: 1
+	Query: "PERCINA NASUTA" ; Times: 1
+	Query: "69462" ; Times: 1
+	Query: "(83337) institutioncode:MSB" ; Times: 2
+	Query: "45880 institutioncode:MSB" ; Times: 2
+	Query: "28704 institutioncode:MSB" ; Times: 2
+	Query: "Piaractus brachypomus" ; Times: 2
+	Query: "catalognumber:64956 institutioncode:MSB" ; Times: 1
+	Query: "Anguilla rostrata" ; Times: 1
+	Query: "catalognumber:244" ; Times: 1
+	Query: "catalognumber:6995" ; Times: 1
+	Query: "catalognumber:70047 institutioncode:MSB" ; Times: 4
+	Query: "28575" ; Times: 1
+	Query: "28574" ; Times: 1
+	Query: "country:&#34;Mexico&#34; institutioncode:MSB" ; Times: 1
+	Query: "oncorhynchus clarkii henshawi" ; Times: 1
+	Query: "specificepithet:lupus genus:Ictalurus" ; Times: 1
+	Query: "Ameiurus brunneus" ; Times: 1
+	Query: "catalognumber:64950 institutioncode:MSB" ; Times: 2
+	Query: "locality:rainbow" ; Times: 1
+	Query: "catalognumber:MSB 54941 institutioncode:MSB" ; Times: 1
+	Query: "69631" ; Times: 1
+	Query: "catalognumber:83337 institutioncode:MSB" ; Times: 1
+	Query: "Colossoma macropomum" ; Times: 1
+	Query: "catalognumber:66571 institutioncode:MSB" ; Times: 2
+	Query: "82270" ; Times: 1
+	Query: "19485" ; Times: 1
+	Query: "catalognumber:83332 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:83329 institutioncode:MSB" ; Times: 2
+	Query: "21879" ; Times: 1
+	Query: "specificepithet:amarus genus:Hybognathus" ; Times: 1
+	Query: "Rana chiricahuensis" ; Times: 9
+	Query: "39641" ; Times: 1
+	Query: "Ardea herodias" ; Times: 1
+	Query: "Snow lake New Mexico" ; Times: 1
+	Query: "catalognumber:76214 institutioncode:MSB" ; Times: 1
+	Query: "Ambloplites ariommus" ; Times: 1
+	Query: "3541" ; Times: 1
+	Query: "Platydoras costatus" ; Times: 1
+	Query: "23221 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:61156 institutioncode:MSB" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 1034 download events in this period)
+Total number of records downloaded: 15
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-31 ; Times: 1
+	Date: 2019-08-05 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "mammal" ; Times: 1
+	Query: "country:&#34;Mexico&#34;" ; Times: 1
+
+
+End of report.
