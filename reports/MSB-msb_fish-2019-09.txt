@@ -1,0 +1,127 @@
+Report for Institution Code MSB, Resource msb_fish
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 73
+Number of records retrieved in searches: 341
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 49
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 3
+	Country: India ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 5
+	Country: Peru ; Times: 1
+	Country: Kuwait ; Times: 1
+	Country: Belgium ; Times: 7
+	Country: Argentina ; Times: 2
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-14 ; Times: 4
+	Date: 2019-09-15 ; Times: 1
+	Date: 2019-09-16 ; Times: 2
+	Date: 2019-09-17 ; Times: 1
+	Date: 2019-09-25 ; Times: 3
+	Date: 2019-09-11 ; Times: 14
+	Date: 2019-09-27 ; Times: 4
+	Date: 2019-09-29 ; Times: 1
+	Date: 2019-09-28 ; Times: 1
+	Date: 2019-09-18 ; Times: 2
+	Date: 2019-09-19 ; Times: 4
+	Date: 2019-09-30 ; Times: 8
+	Date: 2019-09-09 ; Times: 1
+	Date: 2019-09-08 ; Times: 4
+	Date: 2019-09-03 ; Times: 6
+	Date: 2019-09-02 ; Times: 2
+	Date: 2019-09-01 ; Times: 1
+	Date: 2019-09-07 ; Times: 3
+	Date: 2019-09-06 ; Times: 4
+	Date: 2019-09-05 ; Times: 1
+	Date: 2019-09-24 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "45583" ; Times: 1
+	Query: "27957" ; Times: 1
+	Query: "mule deer" ; Times: 1
+	Query: "32980" ; Times: 1
+	Query: "class:Actinopterygii stateprovince:&#34;Chihuahua&#34;" ; Times: 1
+	Query: "gbifdatasetid:a2254f58-8bbf-41e6-ac4e-03d1683e0ce5" ; Times: 1
+	Query: "72764" ; Times: 1
+	Query: "genus:Umbra family:Umbridae stateprovince:&#34;New York&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:88985" ; Times: 1
+	Query: "Lions" ; Times: 2
+	Query: "piranha" ; Times: 1
+	Query: "alosa alabamae" ; Times: 1
+	Query: "MSB 48740" ; Times: 2
+	Query: "10430" ; Times: 1
+	Query: "rhea" ; Times: 1
+	Query: "75277" ; Times: 1
+	Query: "11963" ; Times: 1
+	Query: "16994." ; Times: 1
+	Query: "catalognumber:67286" ; Times: 1
+	Query: "42180" ; Times: 1
+	Query: "41235" ; Times: 1
+	Query: "Peromyscus maniculatus 1998" ; Times: 1
+	Query: "msb maryland" ; Times: 1
+	Query: "Iotichthys" ; Times: 1
+	Query: "69308" ; Times: 1
+	Query: "1816 turner" ; Times: 1
+	Query: "Leopard Frog" ; Times: 1
+	Query: "21870" ; Times: 1
+	Query: "67424" ; Times: 1
+	Query: "Clupea harengus" ; Times: 1
+	Query: "MSB 77143" ; Times: 2
+	Query: "70455" ; Times: 1
+	Query: "43180" ; Times: 1
+	Query: "catalognumber:5841" ; Times: 1
+	Query: "24204" ; Times: 1
+	Query: "52606" ; Times: 1
+	Query: "catalognumber:20459" ; Times: 1
+	Query: "catalognumber:5481" ; Times: 1
+	Query: "heterodon mexico" ; Times: 1
+	Query: "45812" ; Times: 1
+	Query: "racoon" ; Times: 1
+	Query: "(70047) institutioncode:MSB" ; Times: 2
+	Query: "Boreogadus saida mappable:1" ; Times: 7
+	Query: "37768" ; Times: 2
+	Query: "vitreus Sander" ; Times: 4
+	Query: "47798" ; Times: 1
+	Query: "Ictalurus lupus" ; Times: 1
+	Query: "32960" ; Times: 1
+	Query: "45335" ; Times: 1
+	Query: "67501" ; Times: 1
+	Query: "msb delaware" ; Times: 1
+	Query: "amphipods" ; Times: 1
+	Query: "41149" ; Times: 1
+	Query: "Scat" ; Times: 3
+	Query: "catalognumber:23007 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:90926" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 1073 download events in this period)
+Total number of records downloaded: 15673
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-30 ; Times: 2
+	Date: 2019-09-18 ; Times: 2
+	Date: 2019-09-06 ; Times: 1
+	Date: 2019-09-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "institutioncode:MSB basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Umbra family:Umbridae stateprovince:&#34;New York&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "chihuahua" ; Times: 2
+	Query: "class:Actinopterygii stateprovince:&#34;Chihuahua&#34;" ; Times: 1
+
+
+End of report.
