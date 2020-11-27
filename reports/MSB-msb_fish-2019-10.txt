@@ -1,0 +1,228 @@
+Report for Institution Code MSB, Resource msb_fish
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 206
+Number of records retrieved in searches: 827
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 28
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: Hong Kong ; Times: 5
+	Country: Unknown ; Times: 6
+	Country: South Africa ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 7
+	Country: Thailand ; Times: 1
+	Country: Hungary ; Times: 2
+	Country: New Zealand ; Times: 8
+	Country: United States ; Times: 144
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 8
+	Date: 2019-10-08 ; Times: 1
+	Date: 2019-10-21 ; Times: 5
+	Date: 2019-10-20 ; Times: 5
+	Date: 2019-10-27 ; Times: 5
+	Date: 2019-10-26 ; Times: 1
+	Date: 2019-10-25 ; Times: 2
+	Date: 2019-10-24 ; Times: 29
+	Date: 2019-10-03 ; Times: 6
+	Date: 2019-10-02 ; Times: 7
+	Date: 2019-10-04 ; Times: 6
+	Date: 2019-10-07 ; Times: 3
+	Date: 2019-10-23 ; Times: 6
+	Date: 2019-10-22 ; Times: 2
+	Date: 2019-10-29 ; Times: 2
+	Date: 2019-10-18 ; Times: 11
+	Date: 2019-10-19 ; Times: 1
+	Date: 2019-10-12 ; Times: 2
+	Date: 2019-10-16 ; Times: 14
+	Date: 2019-10-10 ; Times: 14
+	Date: 2019-10-11 ; Times: 8
+	Date: 2019-10-30 ; Times: 25
+	Date: 2019-10-31 ; Times: 2
+	Date: 2019-10-14 ; Times: 5
+	Date: 2019-10-17 ; Times: 17
+	Date: 2019-10-15 ; Times: 7
+	Date: 2019-10-28 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:98520" ; Times: 1
+	Query: "Luxilus cornutus mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "catalognumber:12077" ; Times: 1
+	Query: "54212" ; Times: 1
+	Query: "93814" ; Times: 2
+	Query: "10109" ; Times: 2
+	Query: "msb 70697" ; Times: 1
+	Query: "percina nasuta" ; Times: 2
+	Query: "Crystallaria asprella" ; Times: 1
+	Query: "vitreus Sander" ; Times: 2
+	Query: "39463" ; Times: 1
+	Query: "locality:catalina stateprovince:&#34;baja&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "Notropis dorsalis mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 2
+	Query: "jacobi" ; Times: 1
+	Query: "class:Actinopterygii county:&#34;Jeff Davis&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "MSB 25142" ; Times: 2
+	Query: "71340" ; Times: 1
+	Query: "43878" ; Times: 1
+	Query: "Pomoxis annularis mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "11188" ; Times: 1
+	Query: "Notemigonus crysoleucas mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 2
+	Query: "23763" ; Times: 1
+	Query: "MSB 96257" ; Times: 1
+	Query: "62920" ; Times: 1
+	Query: "52702" ; Times: 1
+	Query: "19786" ; Times: 1
+	Query: "msb 25142" ; Times: 2
+	Query: "15983" ; Times: 1
+	Query: "96152" ; Times: 2
+	Query: "catalognumber:2482" ; Times: 2
+	Query: "50567" ; Times: 1
+	Query: "grizzly" ; Times: 1
+	Query: "50678" ; Times: 1
+	Query: "msb delaware" ; Times: 1
+	Query: "32783" ; Times: 1
+	Query: "catalognumber:66570 institutioncode:MSB" ; Times: 1
+	Query: "Catostomus commersonii mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "notropis blennius" ; Times: 2
+	Query: "71718" ; Times: 1
+	Query: "MSB 75936" ; Times: 1
+	Query: "71480" ; Times: 1
+	Query: "MSB 48740" ; Times: 2
+	Query: "Oncorhynchus mykiss mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 2
+	Query: "MSB 78152" ; Times: 1
+	Query: "Semotilus atromaculatus mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 2
+	Query: "class:Actinopterygii locality:Terlingua Creek stateprovince:&#34;Texas&#34;" ; Times: 3
+	Query: "68252" ; Times: 1
+	Query: "fossil" ; Times: 1
+	Query: "Oncorhynchus clarki henshawi" ; Times: 4
+	Query: "fundulus grandis" ; Times: 1
+	Query: "Ameiurus melas mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "Isurus oxyrinchus" ; Times: 2
+	Query: "40047" ; Times: 1
+	Query: "Catostomus catostomus mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "locality:rancho recordedby:christopher" ; Times: 1
+	Query: "64055" ; Times: 1
+	Query: "28676" ; Times: 1
+	Query: "R-21808" ; Times: 2
+	Query: "msb 67321" ; Times: 2
+	Query: "msb 67323" ; Times: 2
+	Query: "catalognumber:1459" ; Times: 1
+	Query: "Percina macrolepida" ; Times: 1
+	Query: "llanos" ; Times: 1
+	Query: "Lepomis megalotis mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "Rhinichthys cataractae mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "63905" ; Times: 1
+	Query: "msb 70704" ; Times: 1
+	Query: "Menidia menidia mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "63902" ; Times: 1
+	Query: "Acipenser fulvescens" ; Times: 1
+	Query: "locality:Catalina stateprovince:&#34;Baja&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Triaenodon obesus" ; Times: 2
+	Query: "Squatina squatina" ; Times: 2
+	Query: "Sander canadensis" ; Times: 1
+	Query: "Lepomis macrochirus mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "Menidia beryllina mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "63118" ; Times: 1
+	Query: "MSB 61878" ; Times: 2
+	Query: "52627" ; Times: 1
+	Query: "Myoxocephalus quadricornis" ; Times: 1
+	Query: "Lepomis gulosus mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "Gambusia affinis mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "9404" ; Times: 1
+	Query: "18509" ; Times: 1
+	Query: "msb 30498" ; Times: 2
+	Query: "66686" ; Times: 1
+	Query: "32887" ; Times: 1
+	Query: "MSB 98869" ; Times: 1
+	Query: "44016" ; Times: 1
+	Query: "SP 11701" ; Times: 1
+	Query: "32998" ; Times: 1
+	Query: "MSB 74952" ; Times: 1
+	Query: "catalognumber:5658 institutioncode:MSB" ; Times: 1
+	Query: "catalognumber:91476" ; Times: 1
+	Query: "17684" ; Times: 1
+	Query: "Cyprinus carpio mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "Rana affinis mappable:1" ; Times: 1
+	Query: "msb conant" ; Times: 2
+	Query: "Gammarus" ; Times: 1
+	Query: "atta" ; Times: 1
+	Query: "menidia audens" ; Times: 2
+	Query: "10495" ; Times: 2
+	Query: "10492" ; Times: 2
+	Query: "Pimephales promelas mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "33502" ; Times: 1
+	Query: "catalognumber:34609 institutioncode:MSB" ; Times: 1
+	Query: "Dorosoma cepedianum mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "52049" ; Times: 1
+	Query: "catalognumber:82531" ; Times: 1
+	Query: "MSB 74965" ; Times: 1
+	Query: "Ictalurus punctatus mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "MSB 55900" ; Times: 2
+	Query: "12619" ; Times: 2
+	Query: "catalognumber:5659 institutioncode:MSB" ; Times: 1
+	Query: "catalognumber:31806" ; Times: 1
+	Query: "catalognumber:64950 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:5660 institutioncode:MSB" ; Times: 2
+	Query: "51716" ; Times: 1
+	Query: "MSB 25412" ; Times: 1
+	Query: "13267" ; Times: 3
+	Query: "67214" ; Times: 3
+	Query: "Notropis rubellus mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 2
+	Query: "MSB 53760" ; Times: 2
+	Query: "MSB 95306" ; Times: 2
+	Query: "white tiger" ; Times: 1
+	Query: "MSB 95307" ; Times: 1
+	Query: "msb virginia" ; Times: 1
+	Query: "MSB 25414" ; Times: 2
+	Query: "msb platania" ; Times: 1
+	Query: "MSB 77143" ; Times: 2
+	Query: "leopard" ; Times: 1
+	Query: "19803" ; Times: 1
+	Query: "catalognumber:16172" ; Times: 1
+	Query: "msb 67322" ; Times: 2
+	Query: "Salmo gairdneri mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "Micropterus salmoides mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 3
+	Query: "Lepomis cyanellus mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "MSB 70337" ; Times: 1
+	Query: "MSB 53759" ; Times: 2
+	Query: "MSB 53758" ; Times: 2
+	Query: "67534" ; Times: 1
+	Query: "37120" ; Times: 1
+	Query: "MSB 53756" ; Times: 2
+	Query: "msb 30828" ; Times: 2
+	Query: "msb 6732" ; Times: 1
+	Query: "70530" ; Times: 1
+	Query: "70531" ; Times: 1
+	Query: "MSB 82218" ; Times: 2
+	Query: "Squatina californica" ; Times: 2
+	Query: "MSB 34495" ; Times: 1
+	Query: "MSB 82216" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 1308 download events in this period)
+Total number of records downloaded: 15593
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-08 ; Times: 1
+	Date: 2019-10-29 ; Times: 1
+	Date: 2019-10-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "percina nasuta" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "institutioncode:MSB" ; Times: 1
+
+
+End of report.
