@@ -1,0 +1,138 @@
+Report for Institution Code MSB, Resource msb_fish
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 146
+Number of records retrieved in searches: 13167
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: United States ; Times: 94
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 7
+	Country: France ; Times: 16
+	Country: United Kingdom ; Times: 22
+	Country: South Korea ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-22 ; Times: 26
+	Date: 2020-01-09 ; Times: 5
+	Date: 2020-01-17 ; Times: 2
+	Date: 2020-01-03 ; Times: 5
+	Date: 2020-01-28 ; Times: 1
+	Date: 2020-01-01 ; Times: 6
+	Date: 2020-01-05 ; Times: 5
+	Date: 2020-01-21 ; Times: 3
+	Date: 2020-01-20 ; Times: 6
+	Date: 2020-01-23 ; Times: 2
+	Date: 2020-01-08 ; Times: 5
+	Date: 2020-01-25 ; Times: 2
+	Date: 2020-01-24 ; Times: 10
+	Date: 2020-01-27 ; Times: 1
+	Date: 2020-01-29 ; Times: 49
+	Date: 2020-01-19 ; Times: 2
+	Date: 2020-01-15 ; Times: 2
+	Date: 2020-01-16 ; Times: 3
+	Date: 2020-01-31 ; Times: 2
+	Date: 2020-01-10 ; Times: 2
+	Date: 2020-01-11 ; Times: 2
+	Date: 2020-01-12 ; Times: 3
+	Date: 2020-01-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "25179" ; Times: 1
+	Query: "54986" ; Times: 2
+	Query: "J. C. Rice" ; Times: 4
+	Query: "county:&#34;Terrell&#34; stateprovince:&#34;Texas&#34; institutioncode:MSB" ; Times: 1
+	Query: "(Mariel Campbell)" ; Times: 1
+	Query: "chrysogaster Agosia" ; Times: 1
+	Query: "nigra Gila" ; Times: 1
+	Query: "class:Actinopterygii locality:Clear Lake" ; Times: 1
+	Query: "insignis Catostomus" ; Times: 1
+	Query: "UT 1221" ; Times: 1
+	Query: "MSB 56030" ; Times: 1
+	Query: "scientificname:Menidia menidia" ; Times: 1
+	Query: "catalognumber:97853" ; Times: 1
+	Query: "stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34; institutioncode:MSB hasmass:1 haslength:1" ; Times: 2
+	Query: "Ambloplites cavifrons" ; Times: 1
+	Query: "Cyprinodon variegatus mappable:1" ; Times: 1
+	Query: "scientificname:Menidia menidia mappable:1" ; Times: 22
+	Query: "Thomas E Stuart" ; Times: 1
+	Query: "54378" ; Times: 1
+	Query: "catalognumber:25239" ; Times: 1
+	Query: "48995" ; Times: 1
+	Query: "13990" ; Times: 1
+	Query: "Clupea harengus mappable:1" ; Times: 1
+	Query: "41501" ; Times: 1
+	Query: "Diodon holocanthus mappable:1" ; Times: 6
+	Query: "catalognumber:12682" ; Times: 1
+	Query: "Remora osteochir mappable:1" ; Times: 3
+	Query: "18975" ; Times: 2
+	Query: "39813" ; Times: 1
+	Query: "recordedby:hunt year &gt;= 1980 year &lt;= 2010" ; Times: 2
+	Query: "scientificname:Membras martinica mappable:1" ; Times: 1
+	Query: "catalognumber:11263" ; Times: 1
+	Query: "Carpiodes cyprinus" ; Times: 3
+	Query: "catalognumber:24995" ; Times: 1
+	Query: "Thomas Stuart" ; Times: 1
+	Query: "Oncorhynchus clarki henshawi" ; Times: 4
+	Query: "reticulata Poecilia" ; Times: 1
+	Query: "12356" ; Times: 1
+	Query: "Menidia menidia" ; Times: 11
+	Query: "msb 30210" ; Times: 1
+	Query: "genus:Etheostoma county:&#34;Pope&#34; stateprovince:&#34;Arkansas&#34;" ; Times: 2
+	Query: "scientificname:Menidia beryllina mappable:1" ; Times: 6
+	Query: "98368" ; Times: 1
+	Query: "catalognumber:35575" ; Times: 1
+	Query: "73465" ; Times: 1
+	Query: "85834" ; Times: 1
+	Query: "73464" ; Times: 1
+	Query: "52543" ; Times: 1
+	Query: "fulgida Meda" ; Times: 1
+	Query: "34814" ; Times: 1
+	Query: "aculeatus Gasterosteus" ; Times: 1
+	Query: "percina nasuta" ; Times: 1
+	Query: "34953" ; Times: 1
+	Query: "locality:Rio Blanco " ; Times: 1
+	Query: "Remora remora mappable:1" ; Times: 2
+	Query: "(movement)" ; Times: 1
+	Query: "osculus Rhinichthys" ; Times: 10
+	Query: "35114" ; Times: 2
+	Query: "piaractus brachypomus" ; Times: 2
+	Query: "Leopard is" ; Times: 1
+	Query: "Isurus oxyrinchus mappable:1" ; Times: 3
+	Query: "catalognumber:12453" ; Times: 1
+	Query: "mykiss Oncorhynchus" ; Times: 4
+	Query: "Cycleptus elongatus" ; Times: 1
+	Query: "62878" ; Times: 1
+	Query: "NCSM" ; Times: 1
+	Query: "87894" ; Times: 1
+	Query: "clarkii Pantosteus" ; Times: 1
+	Query: "scientificname:Menidia audens mappable:1" ; Times: 1
+	Query: "namaycush Salvelinus" ; Times: 1
+	Query: "97174" ; Times: 1
+	Query: "62875" ; Times: 1
+	Query: "water deer" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 1584 download events in this period)
+Total number of records downloaded: 3
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-15 ; Times: 1
+	Date: 2020-01-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Ambloplites cavifrons" ; Times: 1
+	Query: "piaractus brachypomus" ; Times: 1
+
+
+End of report.
