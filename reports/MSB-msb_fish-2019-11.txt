@@ -1,0 +1,205 @@
+Report for Institution Code MSB, Resource msb_fish
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 156
+Number of records retrieved in searches: 1777
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 2
+	Country: Singapore ; Times: 1
+	Country: Denmark ; Times: 2
+	Country: Mexico ; Times: 10
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: United States ; Times: 131
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-19 ; Times: 3
+	Date: 2019-11-18 ; Times: 24
+	Date: 2019-11-30 ; Times: 2
+	Date: 2019-11-15 ; Times: 27
+	Date: 2019-11-14 ; Times: 13
+	Date: 2019-11-16 ; Times: 2
+	Date: 2019-11-11 ; Times: 5
+	Date: 2019-11-10 ; Times: 1
+	Date: 2019-11-13 ; Times: 1
+	Date: 2019-11-12 ; Times: 3
+	Date: 2019-11-08 ; Times: 8
+	Date: 2019-11-27 ; Times: 6
+	Date: 2019-11-20 ; Times: 8
+	Date: 2019-11-21 ; Times: 2
+	Date: 2019-11-22 ; Times: 9
+	Date: 2019-11-25 ; Times: 2
+	Date: 2019-11-26 ; Times: 2
+	Date: 2019-11-09 ; Times: 3
+	Date: 2019-11-06 ; Times: 12
+	Date: 2019-11-07 ; Times: 5
+	Date: 2019-11-04 ; Times: 5
+	Date: 2019-11-05 ; Times: 6
+	Date: 2019-11-02 ; Times: 3
+	Date: 2019-11-03 ; Times: 1
+	Date: 2019-11-01 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "54056" ; Times: 1
+	Query: "catostomus insignis" ; Times: 6
+	Query: "54721" ; Times: 1
+	Query: "10565" ; Times: 1
+	Query: "52778" ; Times: 1
+	Query: "nutria" ; Times: 1
+	Query: "17921" ; Times: 1
+	Query: "53648" ; Times: 1
+	Query: "distance(location,geopoint(25.5766994218309,-81.130110132586))&lt;306658.662473966" ; Times: 2
+	Query: "67280" ; Times: 1
+	Query: "18819" ; Times: 1
+	Query: "95833" ; Times: 1
+	Query: "53812" ; Times: 1
+	Query: "catalognumber:55917 institutioncode:MSB" ; Times: 1
+	Query: "56084" ; Times: 1
+	Query: "MSB 25142" ; Times: 1
+	Query: "31201" ; Times: 1
+	Query: "west bloomfield" ; Times: 1
+	Query: "21851" ; Times: 1
+	Query: "catalognumber:6942" ; Times: 1
+	Query: "20605" ; Times: 1
+	Query: "53498" ; Times: 1
+	Query: "45051" ; Times: 1
+	Query: "58673" ; Times: 1
+	Query: "elephant skeleton" ; Times: 1
+	Query: "Odonata" ; Times: 2
+	Query: "MSB 34460" ; Times: 1
+	Query: "catalognumber:36001 institutioncode:MSB" ; Times: 2
+	Query: "Catostomus insignis" ; Times: 2
+	Query: "catalognumber:73145" ; Times: 1
+	Query: "61-278" ; Times: 1
+	Query: "45337" ; Times: 1
+	Query: "46986" ; Times: 1
+	Query: "cyprinodon eximius" ; Times: 1
+	Query: "catalognumber:83331 institutioncode:MSB" ; Times: 2
+	Query: "Mike Scott" ; Times: 1
+	Query: "Power AND Guadalupe" ; Times: 1
+	Query: "MSB 63604" ; Times: 1
+	Query: "Leopard Frog" ; Times: 1
+	Query: "45295" ; Times: 1
+	Query: "catalognumber:54894 institutioncode:MSB" ; Times: 1
+	Query: "20757" ; Times: 1
+	Query: "20532" ; Times: 1
+	Query: "56937" ; Times: 2
+	Query: "55422" ; Times: 1
+	Query: "Oncorhynchus clarki henshawi" ; Times: 1
+	Query: "54548" ; Times: 1
+	Query: "25328" ; Times: 1
+	Query: "catalognumber:90428 year &gt;= 1990 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "catalognumber:40050 institutioncode:MSB" ; Times: 4
+	Query: "64191" ; Times: 1
+	Query: "19197" ; Times: 1
+	Query: "catalognumber:74838" ; Times: 1
+	Query: "siluriformes hastissue:1" ; Times: 1
+	Query: "86545" ; Times: 1
+	Query: "catalognumber:47954 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "86668" ; Times: 1
+	Query: "msb 28180" ; Times: 1
+	Query: "catalognumber:43623 institutioncode:MSB" ; Times: 1
+	Query: "catalognumber:942" ; Times: 1
+	Query: "catalognumber:68638" ; Times: 1
+	Query: "18905" ; Times: 2
+	Query: "18906" ; Times: 1
+	Query: "Salvelinus malma" ; Times: 1
+	Query: "55549" ; Times: 1
+	Query: "61552" ; Times: 1
+	Query: "58676" ; Times: 1
+	Query: "catalognumber:60069 institutioncode:MSB" ; Times: 1
+	Query: "95836" ; Times: 1
+	Query: "catalognumber:58180" ; Times: 1
+	Query: "60015" ; Times: 1
+	Query: "Cyprinus carpio vntype:specimen hastissue:1" ; Times: 3
+	Query: "msb 28074" ; Times: 1
+	Query: "43136" ; Times: 1
+	Query: "66334" ; Times: 1
+	Query: "Oncorhynchus mykiss" ; Times: 1
+	Query: "61132" ; Times: 1
+	Query: "61702" ; Times: 1
+	Query: "61707" ; Times: 2
+	Query: "10918" ; Times: 1
+	Query: "35676" ; Times: 1
+	Query: "disease vntype:specimen year &gt;= 1800 year &lt;= 2000" ; Times: 1
+	Query: "MSB 74955" ; Times: 1
+	Query: "80642" ; Times: 1
+	Query: "53454" ; Times: 1
+	Query: "catalognumber:24354 institutioncode:MSB" ; Times: 1
+	Query: "catalognumber:30393 institutioncode:MSB" ; Times: 1
+	Query: "97825" ; Times: 1
+	Query: "distance(location,geopoint(39.1862197127719,-105.321721889218))&lt;125847.17822455" ; Times: 2
+	Query: "553566" ; Times: 1
+	Query: "catalognumber:73145 month&gt;=6 month&lt;=8" ; Times: 1
+	Query: "56080" ; Times: 1
+	Query: "53464" ; Times: 2
+	Query: "52292" ; Times: 1
+	Query: "53460" ; Times: 2
+	Query: "16051" ; Times: 1
+	Query: "16053" ; Times: 1
+	Query: "35568" ; Times: 1
+	Query: "msb 9943" ; Times: 1
+	Query: "86599" ; Times: 1
+	Query: "93361" ; Times: 1
+	Query: "catalognumber:35676" ; Times: 1
+	Query: "24573" ; Times: 1
+	Query: "86593" ; Times: 1
+	Query: "86616" ; Times: 1
+	Query: "86614" ; Times: 1
+	Query: "Oncorhynchus mykiss vntype:specimen year &gt;= 2000" ; Times: 1
+	Query: "ictaluridae hastissue:1" ; Times: 1
+	Query: "53626" ; Times: 1
+	Query: "north american river otter" ; Times: 1
+	Query: "53470" ; Times: 1
+	Query: "53471" ; Times: 1
+	Query: "catalognumber:83332 institutioncode:MSB" ; Times: 2
+	Query: "MSB 25414" ; Times: 1
+	Query: "54466" ; Times: 1
+	Query: "54464" ; Times: 1
+	Query: "catalognumber:83329 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:97652" ; Times: 1
+	Query: "19720" ; Times: 2
+	Query: "catalognumber:34631 institutioncode:MSB" ; Times: 1
+	Query: "54583" ; Times: 1
+	Query: "54582" ; Times: 1
+	Query: "catalognumber:43552 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:15561 institutioncode:MSB" ; Times: 1
+	Query: "10565 Mexico" ; Times: 1
+	Query: "catalognumber:74054 institutioncode:MSB" ; Times: 2
+	Query: "86613" ; Times: 1
+	Query: "MSB 53299" ; Times: 1
+	Query: "catalognumber:61156 institutioncode:MSB" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1367 download events in this period)
+Total number of records downloaded: 15589
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-07 ; Times: 1
+	Date: 2019-11-05 ; Times: 1
+	Date: 2019-11-25 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "institutioncode:MSB" ; Times: 1
+	Query: "cyprinodon eximius" ; Times: 1
+	Query: "Odonata" ; Times: 1
+	Query: "(tilapia)" ; Times: 1
+
+
+End of report.
