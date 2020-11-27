@@ -1,0 +1,161 @@
+Report for Institution Code MSB, Resource msb_fish
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 108
+Number of records retrieved in searches: 425
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 78
+	Country: Australia ; Times: 1
+	Country: Iran ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Ireland ; Times: 11
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 3
+	Country: Hong Kong ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 1
+	Date: 2020-05-27 ; Times: 3
+	Date: 2020-05-26 ; Times: 1
+	Date: 2020-05-21 ; Times: 2
+	Date: 2020-05-30 ; Times: 2
+	Date: 2020-05-22 ; Times: 4
+	Date: 2020-05-31 ; Times: 5
+	Date: 2020-05-28 ; Times: 3
+	Date: 2020-05-02 ; Times: 2
+	Date: 2020-05-18 ; Times: 6
+	Date: 2020-05-07 ; Times: 14
+	Date: 2020-05-06 ; Times: 11
+	Date: 2020-05-09 ; Times: 2
+	Date: 2020-05-08 ; Times: 5
+	Date: 2020-05-10 ; Times: 9
+	Date: 2020-05-11 ; Times: 3
+	Date: 2020-05-04 ; Times: 6
+	Date: 2020-05-15 ; Times: 12
+	Date: 2020-05-01 ; Times: 2
+	Date: 2020-05-17 ; Times: 15
+
+List of queries that retrieved data from the resource: 
+	Query: "64668" ; Times: 1
+	Query: "36580" ; Times: 1
+	Query: "65493" ; Times: 1
+	Query: "66672" ; Times: 1
+	Query: "64666" ; Times: 1
+	Query: "34415" ; Times: 1
+	Query: "Sheepheaven" ; Times: 1
+	Query: "57822" ; Times: 1
+	Query: "squatina squatina" ; Times: 1
+	Query: "46562" ; Times: 1
+	Query: "67565" ; Times: 1
+	Query: "28960" ; Times: 1
+	Query: "36803" ; Times: 1
+	Query: "18482" ; Times: 1
+	Query: "48344" ; Times: 1
+	Query: "34410" ; Times: 1
+	Query: "65127" ; Times: 1
+	Query: "97386" ; Times: 1
+	Query: "catalognumber:31824" ; Times: 1
+	Query: "64968" ; Times: 1
+	Query: "60453" ; Times: 1
+	Query: "51940" ; Times: 1
+	Query: "559143" ; Times: 1
+	Query: "genus:Gila stateprovince:&#34;Utah&#34;" ; Times: 2
+	Query: "24183" ; Times: 1
+	Query: "45761" ; Times: 1
+	Query: "46888" ; Times: 1
+	Query: "55084" ; Times: 1
+	Query: "10041" ; Times: 1
+	Query: "MSB 55349" ; Times: 3
+	Query: "collectioncode:Fish institutioncode:MSB" ; Times: 1
+	Query: "50345" ; Times: 1
+	Query: "63237" ; Times: 1
+	Query: "47128" ; Times: 1
+	Query: "79125" ; Times: 1
+	Query: "15583" ; Times: 1
+	Query: "msb 55807" ; Times: 1
+	Query: "msb 55806" ; Times: 1
+	Query: "recordedby:Hess" ; Times: 1
+	Query: "Chauvin" ; Times: 2
+	Query: "79663" ; Times: 2
+	Query: "(platt)" ; Times: 4
+	Query: "43990" ; Times: 1
+	Query: "heterodon mexico" ; Times: 1
+	Query: "catalognumber:19612" ; Times: 1
+	Query: "38592" ; Times: 1
+	Query: "37232" ; Times: 2
+	Query: "64705" ; Times: 1
+	Query: "catalognumber:28784" ; Times: 2
+	Query: "44752" ; Times: 2
+	Query: "16883" ; Times: 1
+	Query: "16881" ; Times: 1
+	Query: "catalognumber:64573 institutioncode:MSB" ; Times: 1
+	Query: "93857" ; Times: 1
+	Query: "heterodon Mexico" ; Times: 1
+	Query: "devil" ; Times: 1
+	Query: "grackle" ; Times: 1
+	Query: "16804" ; Times: 1
+	Query: "catalognumber:45779" ; Times: 1
+	Query: "79405" ; Times: 1
+	Query: "Species presence species" ; Times: 1
+	Query: "79403" ; Times: 1
+	Query: "58664" ; Times: 1
+	Query: "96194" ; Times: 1
+	Query: "47956" ; Times: 1
+	Query: "20009" ; Times: 1
+	Query: "39437" ; Times: 1
+	Query: "75267" ; Times: 2
+	Query: "Brazos County" ; Times: 1
+	Query: "33042" ; Times: 1
+	Query: "64748" ; Times: 1
+	Query: "51803" ; Times: 1
+	Query: "48626" ; Times: 1
+	Query: "38633" ; Times: 1
+	Query: "poeciliopsis occidentalis" ; Times: 1
+	Query: "73832" ; Times: 1
+	Query: "38568" ; Times: 1
+	Query: "2003–062" ; Times: 2
+	Query: "catalognumber:26392" ; Times: 1
+	Query: "poeciliopsis" ; Times: 1
+	Query: "64733" ; Times: 1
+	Query: "79489" ; Times: 2
+	Query: "catalognumber:16611" ; Times: 2
+	Query: "96451" ; Times: 1
+	Query: "49138" ; Times: 1
+	Query: "51361" ; Times: 1
+	Query: "38185" ; Times: 1
+	Query: "catalognumber:26392 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:16369" ; Times: 1
+	Query: "79557" ; Times: 1
+	Query: "37765" ; Times: 1
+	Query: "80301" ; Times: 1
+	Query: "30246" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 1106 download events in this period)
+Total number of records downloaded: 13680
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-07 ; Times: 2
+	Date: 2020-05-08 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Cyprinodon variegatus in Texas" ; Times: 2
+	Query: "Catostomus" ; Times: 1
+	Query: "Oncorhynchus mykiss" ; Times: 1
+	Query: "stateprovince:&#34;California&#34;" ; Times: 2
+
+
+End of report.
