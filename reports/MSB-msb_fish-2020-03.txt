@@ -1,0 +1,262 @@
+Report for Institution Code MSB, Resource msb_fish
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 284
+Number of records retrieved in searches: 3771
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: United States ; Times: 143
+	Country: Netherlands ; Times: 2
+	Country: Finland ; Times: 1
+	Country: United Kingdom ; Times: 6
+	Country: Sweden ; Times: 1
+	Country: Australia ; Times: 4
+	Country: Germany ; Times: 4
+	Country: Switzerland ; Times: 97
+	Country: Japan ; Times: 16
+	Country: Ecuador ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-03 ; Times: 25
+	Date: 2020-03-30 ; Times: 1
+	Date: 2020-03-31 ; Times: 19
+	Date: 2020-03-18 ; Times: 12
+	Date: 2020-03-19 ; Times: 2
+	Date: 2020-03-16 ; Times: 5
+	Date: 2020-03-23 ; Times: 11
+	Date: 2020-03-14 ; Times: 1
+	Date: 2020-03-15 ; Times: 1
+	Date: 2020-03-12 ; Times: 1
+	Date: 2020-03-13 ; Times: 4
+	Date: 2020-03-10 ; Times: 1
+	Date: 2020-03-11 ; Times: 5
+	Date: 2020-03-27 ; Times: 1
+	Date: 2020-03-26 ; Times: 2
+	Date: 2020-03-25 ; Times: 6
+	Date: 2020-03-24 ; Times: 4
+	Date: 2020-03-09 ; Times: 8
+	Date: 2020-03-22 ; Times: 6
+	Date: 2020-03-21 ; Times: 2
+	Date: 2020-03-20 ; Times: 8
+	Date: 2020-03-05 ; Times: 17
+	Date: 2020-03-04 ; Times: 107
+	Date: 2020-03-07 ; Times: 2
+	Date: 2020-03-28 ; Times: 13
+	Date: 2020-03-29 ; Times: 1
+	Date: 2020-03-02 ; Times: 19
+
+List of queries that retrieved data from the resource: 
+	Query: "36879" ; Times: 2
+	Query: "47045" ; Times: 1
+	Query: "MSB 74280" ; Times: 1
+	Query: "catalognumber:13619" ; Times: 2
+	Query: "66066" ; Times: 1
+	Query: "Mottled Sculpin" ; Times: 1
+	Query: "MSB 55126" ; Times: 2
+	Query: "MSB 55127" ; Times: 2
+	Query: "40413" ; Times: 3
+	Query: "(663)" ; Times: 1
+	Query: "MSB 55043" ; Times: 2
+	Query: "MSB 55042" ; Times: 2
+	Query: "MSB 55044" ; Times: 2
+	Query: "catalognumber:7319" ; Times: 1
+	Query: "MSB 55129" ; Times: 2
+	Query: "MSB 30444" ; Times: 2
+	Query: "MSB 55961" ; Times: 1
+	Query: "(11044)" ; Times: 1
+	Query: "14984" ; Times: 1
+	Query: "97922" ; Times: 1
+	Query: "(56781)" ; Times: 1
+	Query: "82768" ; Times: 1
+	Query: "msb 60848" ; Times: 2
+	Query: "(18641)" ; Times: 1
+	Query: "24967" ; Times: 1
+	Query: "MSB 55151" ; Times: 2
+	Query: "country:&#34;United States&#34; (frog) AND (NOT &#34;Australia&#34;) haslength:1" ; Times: 2
+	Query: "30505" ; Times: 1
+	Query: "catalognumber:63126" ; Times: 1
+	Query: "75546" ; Times: 1
+	Query: "98369" ; Times: 2
+	Query: "98368" ; Times: 2
+	Query: "11188" ; Times: 1
+	Query: "45055" ; Times: 1
+	Query: "96091" ; Times: 2
+	Query: "60756" ; Times: 1
+	Query: "60753" ; Times: 1
+	Query: "47738" ; Times: 1
+	Query: "MSB 55052" ; Times: 2
+	Query: "24548" ; Times: 1
+	Query: "MSB 55056" ; Times: 2
+	Query: "MSB 55094" ; Times: 2
+	Query: "60759" ; Times: 1
+	Query: "30908" ; Times: 2
+	Query: "MSB 55956" ; Times: 1
+	Query: "MSB 55952" ; Times: 1
+	Query: "MSB 55048" ; Times: 2
+	Query: "MSB 42658" ; Times: 1
+	Query: "(53280)" ; Times: 1
+	Query: "76842" ; Times: 1
+	Query: "Ictalurus lupus" ; Times: 1
+	Query: "50678" ; Times: 1
+	Query: "(H 59-40)" ; Times: 1
+	Query: "Macrhybopsis tetranema" ; Times: 1
+	Query: "29600" ; Times: 1
+	Query: "MSB 55144" ; Times: 2
+	Query: "559143" ; Times: 1
+	Query: "R.57365" ; Times: 1
+	Query: "70888" ; Times: 1
+	Query: "83012" ; Times: 1
+	Query: "16664" ; Times: 1
+	Query: "(46173)" ; Times: 1
+	Query: "Thunnus orientalis" ; Times: 1
+	Query: "MSB 55163" ; Times: 2
+	Query: "MSB 55067" ; Times: 2
+	Query: "(frog) AND (NOT Australia) haslength:1" ; Times: 2
+	Query: "30740" ; Times: 1
+	Query: "MSB 55165" ; Times: 3
+	Query: "22481" ; Times: 1
+	Query: "13619" ; Times: 2
+	Query: "MSB 55119" ; Times: 2
+	Query: "catalognumber:63127" ; Times: 1
+	Query: "macrhybopsis gelida" ; Times: 2
+	Query: "fossil" ; Times: 1
+	Query: "catalognumber:63124" ; Times: 1
+	Query: "76294" ; Times: 1
+	Query: "35626" ; Times: 1
+	Query: "50807" ; Times: 1
+	Query: "MSB 56002" ; Times: 1
+	Query: "56769" ; Times: 1
+	Query: "55258" ; Times: 1
+	Query: "MSB 55070" ; Times: 2
+	Query: "MSB 55071" ; Times: 2
+	Query: "52484" ; Times: 1
+	Query: "R 27452" ; Times: 1
+	Query: "MSB 55171" ; Times: 2
+	Query: "(77094)" ; Times: 1
+	Query: "MSB 55172" ; Times: 2
+	Query: "58767" ; Times: 1
+	Query: "83646" ; Times: 2
+	Query: "70672" ; Times: 1
+	Query: "21297" ; Times: 1
+	Query: "22251" ; Times: 1
+	Query: "(16380)" ; Times: 1
+	Query: "41248" ; Times: 1
+	Query: "(55759)" ; Times: 1
+	Query: "mappable:1 year&gt;=1990 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=1" ; Times: 16
+	Query: "23124" ; Times: 1
+	Query: "22544" ; Times: 1
+	Query: "87085" ; Times: 1
+	Query: "30384" ; Times: 1
+	Query: "(49083)" ; Times: 1
+	Query: "24123" ; Times: 1
+	Query: "MSB 55001" ; Times: 2
+	Query: "76847" ; Times: 1
+	Query: "MSB 55162" ; Times: 2
+	Query: "21449" ; Times: 1
+	Query: "MSB 55161" ; Times: 2
+	Query: "MSB 55166" ; Times: 2
+	Query: "catalognumber:48455" ; Times: 1
+	Query: "(81591)" ; Times: 1
+	Query: "MSB 93152" ; Times: 1
+	Query: "catalognumber:24548" ; Times: 1
+	Query: "(35175)" ; Times: 1
+	Query: "catalognumber:5085" ; Times: 1
+	Query: "(49096)" ; Times: 4
+	Query: "71221" ; Times: 1
+	Query: "MSB 55021" ; Times: 2
+	Query: "71223" ; Times: 1
+	Query: "catalognumber:57365" ; Times: 1
+	Query: "(11044) institutioncode:MSB" ; Times: 1
+	Query: "locality:Rio Verde. " ; Times: 1
+	Query: "(14976)" ; Times: 1
+	Query: "52627" ; Times: 1
+	Query: "57087" ; Times: 1
+	Query: "Macrhybopsis storeriana" ; Times: 1
+	Query: "MSB 30449" ; Times: 2
+	Query: "MSB 55158" ; Times: 2
+	Query: "31896" ; Times: 1
+	Query: "MSB 30447" ; Times: 2
+	Query: "(49094)" ; Times: 2
+	Query: "R.39075" ; Times: 1
+	Query: "catalognumber:98646" ; Times: 1
+	Query: "(49093)" ; Times: 2
+	Query: "52022" ; Times: 1
+	Query: "MSB 55089" ; Times: 2
+	Query: "67524" ; Times: 1
+	Query: "27757" ; Times: 1
+	Query: "mockingbird" ; Times: 1
+	Query: "MSB 55083" ; Times: 2
+	Query: "catalognumber:2514" ; Times: 1
+	Query: "38874" ; Times: 1
+	Query: "MSB 40886" ; Times: 1
+	Query: "(76777)" ; Times: 2
+	Query: "&#34;Río Bravo&#34;" ; Times: 1
+	Query: "MSB 55023" ; Times: 3
+	Query: "MSB 55022" ; Times: 2
+	Query: "90583" ; Times: 1
+	Query: "93597" ; Times: 1
+	Query: "catalognumber:46721" ; Times: 1
+	Query: "MSB 55024" ; Times: 2
+	Query: "MSB 55140" ; Times: 2
+	Query: "MSB 55018" ; Times: 2
+	Query: "32113" ; Times: 1
+	Query: "MSB 55146" ; Times: 2
+	Query: "MSB 55147" ; Times: 2
+	Query: "MSB 55148" ; Times: 2
+	Query: "MSB 55149" ; Times: 2
+	Query: "52618" ; Times: 1
+	Query: "43878" ; Times: 1
+	Query: "51716" ; Times: 1
+	Query: "79922" ; Times: 1
+	Query: "38031" ; Times: 1
+	Query: "13715" ; Times: 2
+	Query: "79924" ; Times: 1
+	Query: "12212" ; Times: 1
+	Query: "66359" ; Times: 1
+	Query: "MSB 55098" ; Times: 2
+	Query: "Mexico 1922" ; Times: 1
+	Query: "MSB 21449" ; Times: 2
+	Query: "guadalupe Wilson" ; Times: 1
+	Query: "guadalupe mexico wilson" ; Times: 1
+	Query: "MSB 55039" ; Times: 3
+	Query: "MSB 55030" ; Times: 2
+	Query: "MSB 55033" ; Times: 2
+	Query: "MSB 55135" ; Times: 3
+	Query: "Macrhybopsis australis" ; Times: 1
+	Query: "89688" ; Times: 1
+	Query: "77071" ; Times: 1
+	Query: "locality:Rio Blanco " ; Times: 1
+	Query: "57155" ; Times: 1
+	Query: "24177" ; Times: 1
+	Query: "(62898)" ; Times: 2
+	Query: "MSB 30422" ; Times: 2
+	Query: "37120" ; Times: 1
+	Query: "MSB 30427" ; Times: 2
+	Query: "genus:cyprinodon stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "67214" ; Times: 1
+	Query: "catalognumber:61992 institutioncode:MSB" ; Times: 2
+	Query: "88872" ; Times: 1
+	Query: "MSB 55028" ; Times: 2
+	Query: "county:&#34;hudspeth&#34; stateprovince:&#34;texas&#34;" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 853 download events in this period)
+Total number of records downloaded: 1
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "the great lakes" ; Times: 1
+
+
+End of report.
