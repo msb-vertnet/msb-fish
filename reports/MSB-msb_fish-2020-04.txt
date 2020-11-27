@@ -1,0 +1,276 @@
+Report for Institution Code MSB, Resource msb_fish
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 732
+Number of records retrieved in searches: 40579
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 15
+	Country: United States ; Times: 95
+	Country: Australia ; Times: 1
+	Country: Singapore ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 15
+	Country: Lithuania ; Times: 1
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 593
+	Country: Germany ; Times: 2
+	Country: Ecuador ; Times: 1
+	Country: Ireland ; Times: 1
+	Country: Kuwait ; Times: 1
+	Country: Dominican Republic ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-21 ; Times: 135
+	Date: 2020-04-04 ; Times: 3
+	Date: 2020-04-06 ; Times: 15
+	Date: 2020-04-22 ; Times: 2
+	Date: 2020-04-05 ; Times: 1
+	Date: 2020-04-20 ; Times: 2
+	Date: 2020-04-07 ; Times: 163
+	Date: 2020-04-01 ; Times: 12
+	Date: 2020-04-24 ; Times: 1
+	Date: 2020-04-25 ; Times: 1
+	Date: 2020-04-28 ; Times: 1
+	Date: 2020-04-29 ; Times: 2
+	Date: 2020-04-08 ; Times: 222
+	Date: 2020-04-09 ; Times: 4
+	Date: 2020-04-02 ; Times: 3
+	Date: 2020-04-03 ; Times: 64
+	Date: 2020-04-19 ; Times: 3
+	Date: 2020-04-18 ; Times: 3
+	Date: 2020-04-13 ; Times: 29
+	Date: 2020-04-12 ; Times: 1
+	Date: 2020-04-11 ; Times: 4
+	Date: 2020-04-10 ; Times: 1
+	Date: 2020-04-17 ; Times: 13
+	Date: 2020-04-16 ; Times: 17
+	Date: 2020-04-15 ; Times: 9
+	Date: 2020-04-14 ; Times: 19
+	Date: 2020-04-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "scientificname:(Coregonus artedi) country:United States mappable:1" ; Times: 1
+	Query: "Crystallaria asprella" ; Times: 5
+	Query: "23208" ; Times: 1
+	Query: "MSB 63295" ; Times: 1
+	Query: "Esox lucius" ; Times: 10
+	Query: "Cottus carolinae" ; Times: 10
+	Query: "Ameiurus natalis" ; Times: 9
+	Query: "scientificname:(Cycleptus meridionalis) country:United States mappable:1" ; Times: 1
+	Query: "38543" ; Times: 1
+	Query: "26823" ; Times: 3
+	Query: "26821" ; Times: 2
+	Query: "Hypomesus olidus" ; Times: 5
+	Query: "Cynoscion regalis" ; Times: 3
+	Query: "Fundulus grandis" ; Times: 4
+	Query: "scientificname:(Notropis ortenburgeri) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Etheostoma radiosum) country:United States mappable:1" ; Times: 1
+	Query: "Tinca tinca" ; Times: 7
+	Query: "squatina squatina" ; Times: 1
+	Query: "Lepomis punctatus" ; Times: 6
+	Query: "Oncorhynchus clarkii" ; Times: 8
+	Query: "Cottus bairdii" ; Times: 5
+	Query: "scientificname:(Chrosomus oreas OR Phoxinus oreas) country:United States mappable:1" ; Times: 1
+	Query: "Lepomis gulosus" ; Times: 6
+	Query: "catalognumber:53254 institutioncode:MSB" ; Times: 2
+	Query: "23472" ; Times: 1
+	Query: "Lampetra aepyptera" ; Times: 2
+	Query: "Gila robusta" ; Times: 2
+	Query: "Cottus beldingii" ; Times: 7
+	Query: "Astronotus ocellatus" ; Times: 3
+	Query: "Odonata" ; Times: 1
+	Query: "scientificname:(Notropis suttkusi) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Macrhybopsis gelida OR Hybopsis gelida) country:United States mappable:1" ; Times: 1
+	Query: "Coregonus sardinella" ; Times: 5
+	Query: "Oreochromis aureus" ; Times: 22
+	Query: "catalognumber:53264 institutioncode:MSB" ; Times: 1
+	Query: "Oncorhynchus kisutch" ; Times: 8
+	Query: "Ptychocheilus oregonensis" ; Times: 2
+	Query: "scientificname:(Etheostoma asprigene) country:United States mappable:1" ; Times: 1
+	Query: "Pylodictis olivaris" ; Times: 2
+	Query: "Alosa alabamae" ; Times: 1
+	Query: "catalognumber:47891 institutioncode:MSB" ; Times: 1
+	Query: "scientificname:(Cyprinella pyrrhomelas OR Notropis pyrrhomelas) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:47882 institutioncode:MSB" ; Times: 1
+	Query: "Margariscus margarita" ; Times: 7
+	Query: "salmonid" ; Times: 1
+	Query: "Trachurus lathami" ; Times: 5
+	Query: "scientificname:(Notropis heterodon) country:United States mappable:1" ; Times: 1
+	Query: "90115" ; Times: 1
+	Query: "Ictalurus lupus" ; Times: 6
+	Query: "scientificname:(Lythrurus ardens OR Notropis ardens) country:United States mappable:1" ; Times: 1
+	Query: "22916" ; Times: 1
+	Query: "Oncorhynchus nerka" ; Times: 8
+	Query: "(10009)" ; Times: 2
+	Query: "Petromyzon marinus" ; Times: 2
+	Query: "Astyanax fasciatus" ; Times: 2
+	Query: "catalognumber:53277 institutioncode:MSB" ; Times: 2
+	Query: "scientificname:(Fundulus sciadicus) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Macrhybopsis hyostoma) country:United States mappable:1" ; Times: 1
+	Query: "Leopard" ; Times: 1
+	Query: "Oncorhynchus gorbuscha" ; Times: 8
+	Query: "Ictalurus pricei" ; Times: 13
+	Query: "Lepomis auritus" ; Times: 5
+	Query: "(18677)" ; Times: 1
+	Query: "Astyanax mexicanus" ; Times: 5
+	Query: "badger" ; Times: 1
+	Query: "catalognumber:53249 institutioncode:MSB" ; Times: 1
+	Query: "catalognumber:7347" ; Times: 1
+	Query: "Chauvin" ; Times: 2
+	Query: "Ameiurus melas" ; Times: 10
+	Query: "Chrosomus erythrogaster" ; Times: 7
+	Query: "Oreochromis mossambicus" ; Times: 22
+	Query: "Perca flavescens" ; Times: 3
+	Query: "devil" ; Times: 1
+	Query: "18103" ; Times: 2
+	Query: "Dionda episcopa" ; Times: 4
+	Query: "Gila pandora" ; Times: 7
+	Query: "Oncorhynchus keta" ; Times: 8
+	Query: "Sander vitreus" ; Times: 4
+	Query: "scientificname:(Notropis bifrenatus) country:United States mappable:1" ; Times: 1
+	Query: "15034" ; Times: 1
+	Query: "catalognumber:53266 institutioncode:MSB" ; Times: 1
+	Query: "Notemigonus crysoleucas" ; Times: 10
+	Query: "Salmo trutta" ; Times: 7
+	Query: "Gila nigrescens" ; Times: 7
+	Query: "Oreochromis" ; Times: 14
+	Query: "catalognumber:85549" ; Times: 1
+	Query: "40612" ; Times: 1
+	Query: "Pholis gunnellus" ; Times: 5
+	Query: "Thymallus thymallus" ; Times: 7
+	Query: "Hypophthalmichthys nobilis" ; Times: 9
+	Query: "catalognumber:76817 institutioncode:MSB" ; Times: 3
+	Query: "(49096)" ; Times: 1
+	Query: "catalognumber:26816 institutioncode:MSB" ; Times: 1
+	Query: "Salvelinus malma" ; Times: 5
+	Query: "scientificname:(Jordanella floridae) country:United States mappable:1" ; Times: 1
+	Query: "Oncorhynchus mykiss" ; Times: 8
+	Query: "scientificname:(Notropis amoenus) country:United States mappable:1" ; Times: 1
+	Query: "36220" ; Times: 1
+	Query: "Platichthys stellatus" ; Times: 4
+	Query: "Myoxocephalus quadricornis" ; Times: 8
+	Query: "scientificname:(Ammocrypta meridiana) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:92437 institutioncode:MSB" ; Times: 1
+	Query: "Ictalurus furcatus" ; Times: 6
+	Query: "scientificname:(Cyprinodon rubrofluviatilis) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:90845 institutioncode:MSB" ; Times: 1
+	Query: "catalognumber:89858 institutioncode:MSB" ; Times: 1
+	Query: "Cyprinus carpio" ; Times: 16
+	Query: "Dorosoma cepedianum" ; Times: 4
+	Query: "catalognumber:53251 institutioncode:MSB" ; Times: 1
+	Query: "Ichthyomyzon gagei" ; Times: 2
+	Query: "(18647)" ; Times: 2
+	Query: "Gasterosteus aculeatus" ; Times: 15
+	Query: "scientificname:(Nocomis asper) country:United States mappable:1" ; Times: 1
+	Query: "Racoon" ; Times: 1
+	Query: "Phoxinus phoxinus" ; Times: 13
+	Query: "41044" ; Times: 2
+	Query: "Osmerus mordax" ; Times: 5
+	Query: "Piaractus brachypomus" ; Times: 9
+	Query: "Micropterus salmoides" ; Times: 1
+	Query: "catalognumber:89866 institutioncode:MSB" ; Times: 2
+	Query: "Carassius auratus" ; Times: 14
+	Query: "36314" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 7
+	Query: "scientificname:(Heterandria formosa) country:United States mappable:1" ; Times: 1
+	Query: "colossoma macropomum" ; Times: 1
+	Query: "Anguilla rostrata" ; Times: 11
+	Query: "Ameiurus brunneus" ; Times: 9
+	Query: "Esox niger" ; Times: 3
+	Query: "catalognumber:89863 institutioncode:MSB" ; Times: 2
+	Query: "scientificname:(Etheostoma squamiceps) country:United States mappable:1" ; Times: 1
+	Query: "Cottus cognatus" ; Times: 7
+	Query: "Lepomis megalotis" ; Times: 6
+	Query: "Ameiurus nebulosus" ; Times: 10
+	Query: "scientificname:(Notropis bairdi) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Erimystax insignis OR Hybopsis insignis) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:45782" ; Times: 1
+	Query: "61477" ; Times: 1
+	Query: "Sander canadensis" ; Times: 11
+	Query: "mule deer" ; Times: 1
+	Query: "34276" ; Times: 1
+	Query: "catalognumber:26300" ; Times: 1
+	Query: "Gila atraria" ; Times: 2
+	Query: "5290" ; Times: 1
+	Query: "Ictalurus punctatus" ; Times: 11
+	Query: "scientificname:(Hybopsis hypsinotus OR Notropis hypsinotus) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:47887 institutioncode:MSB" ; Times: 1
+	Query: "Cottus aleuticus" ; Times: 7
+	Query: "catalognumber:49712 institutioncode:MSB" ; Times: 1
+	Query: "25093" ; Times: 1
+	Query: "26884" ; Times: 2
+	Query: "26886" ; Times: 2
+	Query: "Gambusia affinis" ; Times: 7
+	Query: "sphoeroides trichocephalus" ; Times: 2
+	Query: "Aplodinotus grunniens" ; Times: 6
+	Query: "(49095)" ; Times: 1
+	Query: "scientificname:(Etheostoma mariae) country:United States mappable:1" ; Times: 1
+	Query: "NOTROPIS ORTENBURGERI" ; Times: 1
+	Query: "Pungitius pungitius" ; Times: 14
+	Query: "scientificname:(Macrhybopsis australis) country:United States mappable:1" ; Times: 1
+	Query: "Colossoma macropomum" ; Times: 9
+	Query: "90476" ; Times: 1
+	Query: "Couesius plumbeus" ; Times: 2
+	Query: "Lethenteron appendix" ; Times: 2
+	Query: "catalognumber:89859 institutioncode:MSB" ; Times: 1
+	Query: "Gila cypha" ; Times: 2
+	Query: "Clupea harengus" ; Times: 5
+	Query: "MSB 45756" ; Times: 1
+	Query: "catalognumber:89867 institutioncode:MSB" ; Times: 1
+	Query: "Rita rita" ; Times: 3
+	Query: "msb 99218" ; Times: 1
+	Query: "catalognumber:56869 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:89864 institutioncode:MSB" ; Times: 1
+	Query: "26816" ; Times: 3
+	Query: "29346" ; Times: 1
+	Query: "turtle length" ; Times: 1
+	Query: "scientificname:(Etheostoma maculatum) country:United States mappable:1" ; Times: 1
+	Query: "Carassius carassius" ; Times: 12
+	Query: "catalognumber:89862 institutioncode:MSB" ; Times: 1
+	Query: "Thymallus arcticus" ; Times: 7
+	Query: "catalognumber:43407 institutioncode:MSB" ; Times: 1
+	Query: "56798" ; Times: 1
+	Query: "A. pygmaea" ; Times: 6
+	Query: "Platydoras costatus" ; Times: 6
+	Query: "catalognumber:89861 institutioncode:MSB" ; Times: 1
+	Query: "Poecilia reticulata" ; Times: 9
+	Query: "(18642)" ; Times: 2
+	Query: "catalognumber:6129" ; Times: 1
+	Query: "country:&#34;mexico&#34; recordedby:l. miller" ; Times: 1
+	Query: "catalognumber:53274 institutioncode:MSB" ; Times: 2
+	Query: "Lepomis gibbosus" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 1171 download events in this period)
+Total number of records downloaded: 59
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: United Kingdom ; Times: 1
+	Country: Lithuania ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-28 ; Times: 2
+	Date: 2020-04-18 ; Times: 2
+	Date: 2020-04-26 ; Times: 1
+	Date: 2020-04-09 ; Times: 1
+	Date: 2020-04-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "squatina squatina" ; Times: 1
+	Query: "mud turtle" ; Times: 1
+	Query: "Lepomis gulosus" ; Times: 1
+	Query: "Alosa alabamae" ; Times: 1
+	Query: "bullfrog" ; Times: 1
+	Query: "turtle length" ; Times: 1
+	Query: "Gasterosteus aculeatus" ; Times: 1
+
+
+End of report.
