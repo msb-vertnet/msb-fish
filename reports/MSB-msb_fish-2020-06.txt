@@ -1,0 +1,130 @@
+Report for Institution Code MSB, Resource msb_fish
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 215
+Number of records retrieved in searches: 12887
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 17
+	Country: Ireland ; Times: 1
+	Country: Mexico ; Times: 15
+	Country: Singapore ; Times: 2
+	Country: South Africa ; Times: 1
+	Country: United Kingdom ; Times: 167
+	Country: Peru ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: France ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-05 ; Times: 8
+	Date: 2020-06-26 ; Times: 7
+	Date: 2020-06-08 ; Times: 2
+	Date: 2020-06-09 ; Times: 3
+	Date: 2020-06-06 ; Times: 1
+	Date: 2020-06-07 ; Times: 1
+	Date: 2020-06-04 ; Times: 9
+	Date: 2020-06-16 ; Times: 2
+	Date: 2020-06-02 ; Times: 5
+	Date: 2020-06-03 ; Times: 4
+	Date: 2020-06-10 ; Times: 74
+	Date: 2020-06-15 ; Times: 16
+	Date: 2020-06-29 ; Times: 2
+	Date: 2020-06-11 ; Times: 75
+	Date: 2020-06-01 ; Times: 1
+	Date: 2020-06-17 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:98948" ; Times: 1
+	Query: "Salmo trutta" ; Times: 9
+	Query: "oncorhynchus kisutch" ; Times: 1
+	Query: "Clupea harengus" ; Times: 15
+	Query: "Cottus beldingii" ; Times: 6
+	Query: "Cottus carolinae" ; Times: 5
+	Query: "catalognumber:4018" ; Times: 1
+	Query: "37841" ; Times: 1
+	Query: "Ictalurus pricei" ; Times: 6
+	Query: "american beaver" ; Times: 1
+	Query: "Colossoma macropomum" ; Times: 6
+	Query: "catalognumber:25187" ; Times: 1
+	Query: "Ictalurus furcatus" ; Times: 6
+	Query: "Cottus aleuticus" ; Times: 6
+	Query: "Ctenopharyngodon idella" ; Times: 9
+	Query: "Cottus bairdii" ; Times: 4
+	Query: "Gambusia nobilis" ; Times: 3
+	Query: "Cyprinus carpio" ; Times: 5
+	Query: "catalognumber:53248" ; Times: 1
+	Query: "catalognumber:57338" ; Times: 1
+	Query: "82441" ; Times: 1
+	Query: "Gambusia affinis" ; Times: 6
+	Query: "racoon" ; Times: 1
+	Query: "Gasterosteus aculeatus" ; Times: 11
+	Query: "catalognumber:53419" ; Times: 1
+	Query: "catalognumber:61239" ; Times: 1
+	Query: "Hypophthalmichthys nobilis" ; Times: 6
+	Query: "Piaractus brachypomus" ; Times: 6
+	Query: "catalognumber:36168" ; Times: 2
+	Query: "catalognumber: 49140" ; Times: 1
+	Query: "Carassius auratus" ; Times: 6
+	Query: "Oreochromis mossambicus" ; Times: 6
+	Query: "Esox lucius" ; Times: 8
+	Query: "59011" ; Times: 1
+	Query: "Pungitius pungitius" ; Times: 9
+	Query: "93995" ; Times: 1
+	Query: "catalognumber: 3742" ; Times: 1
+	Query: "21719" ; Times: 2
+	Query: "catalognumber:41469" ; Times: 1
+	Query: "catalognumber:19611" ; Times: 1
+	Query: "Coregonus sardinella" ; Times: 6
+	Query: "catalognumber: 61436" ; Times: 1
+	Query: "Oreochromis aureus" ; Times: 6
+	Query: "catalognumber:55841" ; Times: 1
+	Query: "prairie dog" ; Times: 1
+	Query: "year &gt;= 2010 year &lt;= 2020 Red tail hawk" ; Times: 1
+	Query: "Cottus cognatus" ; Times: 6
+	Query: "93108" ; Times: 1
+	Query: "Ictalurus punctatus" ; Times: 6
+	Query: "Ictalurus lupus" ; Times: 6
+	Query: "salmoninae" ; Times: 4
+	Query: "(10058)" ; Times: 1
+	Query: "catalognumber:70280" ; Times: 1
+	Query: "catalognumber:55845" ; Times: 1
+	Query: "MSB 67278" ; Times: 1
+	Query: "Salvelinus malma" ; Times: 6
+	Query: "Carassius carassius" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 474 download events in this period)
+Total number of records downloaded: 1889
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-08 ; Times: 1
+	Date: 2020-06-04 ; Times: 4
+	Date: 2020-06-05 ; Times: 2
+	Date: 2020-06-02 ; Times: 1
+	Date: 2020-06-03 ; Times: 3
+	Date: 2020-06-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "racoon" ; Times: 2
+	Query: "year &gt;= 2010 year &lt;= 2020 Red tail hawk" ; Times: 1
+	Query: "oncorhynchus kisutch" ; Times: 1
+	Query: "box turtle" ; Times: 2
+	Query: "Florida" ; Times: 1
+	Query: "salmoninae" ; Times: 1
+	Query: "Gambusia nobilis" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "american beaver" ; Times: 1
+	Query: "bullfrog" ; Times: 1
+	Query: "raccoon" ; Times: 1
+
+
+End of report.
