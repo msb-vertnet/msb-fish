@@ -1,0 +1,189 @@
+Report for Institution Code MSB, Resource msb_fish
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 287
+Number of records retrieved in searches: 2864
+Number of different countries where searches have been originated: 19
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 3
+	Country: Israel ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Honduras ; Times: 1
+	Country: Peru ; Times: 12
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: India ; Times: 2
+	Country: France ; Times: 5
+	Country: United Kingdom ; Times: 13
+	Country: Sweden ; Times: 5
+	Country: Germany ; Times: 1
+	Country: Ireland ; Times: 5
+	Country: Belgium ; Times: 2
+	Country: Japan ; Times: 5
+	Country: United States ; Times: 214
+	Country: Russia ; Times: 5
+	Country: Ecuador ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-28 ; Times: 6
+	Date: 2020-08-29 ; Times: 1
+	Date: 2020-08-16 ; Times: 2
+	Date: 2020-08-15 ; Times: 1
+	Date: 2020-08-14 ; Times: 3
+	Date: 2020-08-12 ; Times: 4
+	Date: 2020-08-11 ; Times: 5
+	Date: 2020-08-10 ; Times: 6
+	Date: 2020-08-26 ; Times: 5
+	Date: 2020-08-19 ; Times: 109
+	Date: 2020-08-18 ; Times: 6
+	Date: 2020-08-31 ; Times: 1
+	Date: 2020-08-03 ; Times: 1
+	Date: 2020-08-04 ; Times: 4
+	Date: 2020-08-05 ; Times: 3
+	Date: 2020-08-06 ; Times: 11
+	Date: 2020-08-07 ; Times: 4
+	Date: 2020-08-08 ; Times: 10
+	Date: 2020-08-27 ; Times: 4
+	Date: 2020-08-24 ; Times: 5
+	Date: 2020-08-25 ; Times: 6
+	Date: 2020-08-22 ; Times: 4
+	Date: 2020-08-23 ; Times: 4
+	Date: 2020-08-20 ; Times: 50
+	Date: 2020-08-21 ; Times: 32
+
+List of queries that retrieved data from the resource: 
+	Query: "Lein" ; Times: 1
+	Query: "catalognumber:97893" ; Times: 1
+	Query: "chiricahuensis vntype:specimen institutioncode:MSB" ; Times: 1
+	Query: "70298" ; Times: 1
+	Query: "MSB 70022" ; Times: 1
+	Query: "Cottus aleuticus" ; Times: 1
+	Query: "cyprinodon rubrofluviatilis" ; Times: 134
+	Query: "vntype:specimen specificepithet:elongatus genus:Cycleptus hastissue:1" ; Times: 2
+	Query: "NM 3416" ; Times: 1
+	Query: "MSB 94745" ; Times: 1
+	Query: "vntype:specimen specificepithet:congestum genus:Moxostoma" ; Times: 1
+	Query: "44804" ; Times: 1
+	Query: "Fundulus zebrinus (texas)" ; Times: 1
+	Query: "80729" ; Times: 5
+	Query: "Pungitius pungitius" ; Times: 1
+	Query: "20284" ; Times: 1
+	Query: "percina nasuta" ; Times: 2
+	Query: "Egg collections" ; Times: 1
+	Query: "Oncorhynchus clarki henshawi" ; Times: 9
+	Query: "133824" ; Times: 1
+	Query: "Oreochromis aureus" ; Times: 1
+	Query: "chiricahuensis vntype:specimen year &gt;= 1972 year &lt;= 2020 institutioncode:MSB" ; Times: 1
+	Query: "13097" ; Times: 1
+	Query: "71370" ; Times: 2
+	Query: "71376" ; Times: 1
+	Query: "connor museum" ; Times: 1
+	Query: "35359" ; Times: 1
+	Query: "35358" ; Times: 1
+	Query: "Cyprinodon rubrofluviatilis" ; Times: 3
+	Query: "Thunnus orientalis" ; Times: 1
+	Query: "catalognumber:6205" ; Times: 1
+	Query: "64753" ; Times: 1
+	Query: "catalognumber:91481" ; Times: 1
+	Query: "32207" ; Times: 1
+	Query: "44744" ; Times: 1
+	Query: "20858" ; Times: 1
+	Query: "Moxostoma anisurum" ; Times: 4
+	Query: "Fundulus zebrinus (Pecos)" ; Times: 9
+	Query: "fundulus grandis" ; Times: 1
+	Query: "66815" ; Times: 1
+	Query: "msb 70022" ; Times: 1
+	Query: "Oreochromis mossambicus" ; Times: 1
+	Query: "Dionda episcopa" ; Times: 1
+	Query: "29224" ; Times: 2
+	Query: "Fundulus zebrinus (Red River)" ; Times: 2
+	Query: "19285" ; Times: 1
+	Query: "70387" ; Times: 1
+	Query: "Tinca tinca" ; Times: 1
+	Query: "Notemigonus crysoleucas" ; Times: 1
+	Query: "92740" ; Times: 1
+	Query: "NM 3442" ; Times: 1
+	Query: "69660" ; Times: 1
+	Query: "11295" ; Times: 1
+	Query: "catalognumber:91704" ; Times: 1
+	Query: "catalognumber:58879" ; Times: 1
+	Query: "56164" ; Times: 2
+	Query: "M. R. Lein" ; Times: 1
+	Query: "25785" ; Times: 1
+	Query: "75459" ; Times: 1
+	Query: "33873" ; Times: 1
+	Query: "Platichthys stellatus" ; Times: 2
+	Query: "catalognumber:68551" ; Times: 1
+	Query: "Cyprinus carpio" ; Times: 1
+	Query: "brown trout" ; Times: 1
+	Query: "Cache River" ; Times: 1
+	Query: "28881" ; Times: 1
+	Query: "14405" ; Times: 1
+	Query: "Phoxinus phoxinus" ; Times: 1
+	Query: "Hypophthalmichthys nobilis" ; Times: 1
+	Query: "NM 3396" ; Times: 1
+	Query: "Clupea harengus" ; Times: 5
+	Query: "catalognumber:27778" ; Times: 1
+	Query: "Fundulus zebrinus (pecos) AND (texas)" ; Times: 1
+	Query: "65686" ; Times: 1
+	Query: "45388" ; Times: 1
+	Query: "Fundulus zebrinus" ; Times: 5
+	Query: "Gobiesox strumosus" ; Times: 1
+	Query: "63162" ; Times: 1
+	Query: "Fundulus zebrinus (pecos) AND (new mexico)" ; Times: 1
+	Query: "MSB 45756" ; Times: 2
+	Query: "Gasterosteus aculeatus" ; Times: 1
+	Query: "catalognumber:30627" ; Times: 1
+	Query: "70345" ; Times: 2
+	Query: "cyprinodon rubrofluviatilis (texas)" ; Times: 1
+	Query: "NM 3391" ; Times: 1
+	Query: "MSB 74965" ; Times: 1
+	Query: "Fundulus zebrinus (REd )" ; Times: 1
+	Query: "45154" ; Times: 1
+	Query: "Hybopsis aestivalis" ; Times: 1
+	Query: "10276 vntype:specimen" ; Times: 1
+	Query: "scientificname:(Fundulus rathbuni) country:United States mappable:1" ; Times: 1
+	Query: "133522" ; Times: 1
+	Query: "A. pygmaea" ; Times: 1
+	Query: "M. auratus" ; Times: 1
+	Query: "32206" ; Times: 1
+	Query: "catalognumber:799 institutioncode:MSB" ; Times: 1
+	Query: "catalognumber:98699" ; Times: 1
+	Query: "52769" ; Times: 1
+	Query: "recordedby:clark year &gt;= 1990" ; Times: 1
+	Query: "41574" ; Times: 1
+	Query: "8243" ; Times: 1
+	Query: "14370" ; Times: 2
+	Query: "Moxostoma congestum" ; Times: 1
+	Query: "NM 3486" ; Times: 1
+	Query: "R 52046" ; Times: 1
+	Query: "Alosa chrysochloris" ; Times: 1
+	Query: "47505" ; Times: 1
+	Query: "catalognumber:798 institutioncode:MSB" ; Times: 3
+	Query: "71606" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 756 download events in this period)
+Total number of records downloaded: 52262
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-17 ; Times: 1
+	Date: 2020-08-20 ; Times: 1
+	Date: 2020-08-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:&#34;Oregon&#34; year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "actinopterygii" ; Times: 1
+	Query: "cyprinodon rubrofluviatilis" ; Times: 1
+
+
+End of report.
