@@ -1,0 +1,282 @@
+Report for Institution Code MSB, Resource msb_fish
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 316
+Number of records retrieved in searches: 7138
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 7
+	Country: United States ; Times: 218
+	Country: Mexico ; Times: 5
+	Country: Denmark ; Times: 2
+	Country: Ecuador ; Times: 9
+	Country: France ; Times: 50
+	Country: United Kingdom ; Times: 16
+	Country: Austria ; Times: 2
+	Country: Spain ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Switzerland ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Brazil ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 3
+	Date: 2020-10-18 ; Times: 1
+	Date: 2020-10-19 ; Times: 124
+	Date: 2020-10-08 ; Times: 11
+	Date: 2020-10-12 ; Times: 3
+	Date: 2020-10-13 ; Times: 24
+	Date: 2020-10-10 ; Times: 1
+	Date: 2020-10-11 ; Times: 2
+	Date: 2020-10-16 ; Times: 3
+	Date: 2020-10-31 ; Times: 4
+	Date: 2020-10-14 ; Times: 1
+	Date: 2020-10-15 ; Times: 9
+	Date: 2020-10-23 ; Times: 26
+	Date: 2020-10-22 ; Times: 2
+	Date: 2020-10-21 ; Times: 11
+	Date: 2020-10-20 ; Times: 14
+	Date: 2020-10-27 ; Times: 3
+	Date: 2020-10-26 ; Times: 27
+	Date: 2020-10-25 ; Times: 2
+	Date: 2020-10-24 ; Times: 10
+	Date: 2020-10-01 ; Times: 5
+	Date: 2020-10-30 ; Times: 1
+	Date: 2020-10-29 ; Times: 3
+	Date: 2020-10-28 ; Times: 1
+	Date: 2020-10-05 ; Times: 7
+	Date: 2020-10-04 ; Times: 1
+	Date: 2020-10-07 ; Times: 8
+	Date: 2020-10-17 ; Times: 6
+	Date: 2020-10-06 ; Times: 2
+	Date: 2020-10-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "scientificname:(Macrhybopsis storeriana OR Hybopsis storeriana) country:United States mappable:1" ; Times: 1
+	Query: "44455" ; Times: 1
+	Query: "Etheostoma exile" ; Times: 3
+	Query: "scientificname:(Chrosomus oreas OR Phoxinus oreas) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Macrhybopsis gelida OR Hybopsis gelida) country:United States mappable:1" ; Times: 1
+	Query: "44356" ; Times: 2
+	Query: "scientificname:(Fundulus notatus) country:United States mappable:1" ; Times: 2
+	Query: "41813" ; Times: 2
+	Query: "scientificname:(Cycleptus meridionalis) country:United States mappable:1" ; Times: 1
+	Query: "north American porcupine" ; Times: 1
+	Query: "genus:notropis hastissue:1" ; Times: 2
+	Query: "scientificname:(Hybognathus hankinsoni) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:19887" ; Times: 1
+	Query: "mappable:1 scientificname:Clupea harengus" ; Times: 1
+	Query: "scientificname:(Notropis ortenburgeri) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Etheostoma radiosum) country:United States mappable:1" ; Times: 1
+	Query: "MSB 30550" ; Times: 1
+	Query: "Diodon holocanthus mappable:1" ; Times: 1
+	Query: "scientificname:(Etheostoma mariae) country:United States mappable:1" ; Times: 1
+	Query: "genus:Prionotus" ; Times: 2
+	Query: "Boulder Creek 1914" ; Times: 2
+	Query: "Notropis topeka" ; Times: 1
+	Query: "vntype:specimen (Murray) institutioncode:MSB" ; Times: 1
+	Query: "scientificname:(Prosopium cylindraceum) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Moxostoma erythrurum) country:United States mappable:1" ; Times: 1
+	Query: "field museum 11874" ; Times: 2
+	Query: "scientificname:(Macrhybopsis australis) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Thymallus arcticus) country:United States mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Oreochromis mossambicus" ; Times: 15
+	Query: "Carassius auratus" ; Times: 1
+	Query: "10766" ; Times: 1
+	Query: "Sturgis" ; Times: 1
+	Query: "scientificname:(Notropis chihuahua) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Etheostoma stigmaeum) country:United States mappable:1" ; Times: 1
+	Query: "42514" ; Times: 1
+	Query: "Histrio histrio mappable:1" ; Times: 1
+	Query: "catalognumber:29429 institutioncode:MSB" ; Times: 1
+	Query: "scientificname:(Moxostoma pappillosum) country:United States mappable:1" ; Times: 1
+	Query: "47132" ; Times: 1
+	Query: "evolution" ; Times: 1
+	Query: "93638" ; Times: 1
+	Query: "scientificname:(Notropis buchanani) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Esox americanus americanus) country:United States mappable:1" ; Times: 2
+	Query: "scientificname:Isurus oxyrinchus" ; Times: 1
+	Query: "scientificname:(Etheostoma asprigene) country:United States mappable:1" ; Times: 1
+	Query: "msb 35891" ; Times: 1
+	Query: "poecilia reticulata" ; Times: 2
+	Query: "scientificname:(Hybognathus hayi) country:United States mappable:1" ; Times: 2
+	Query: "MSB 36209" ; Times: 4
+	Query: "catalognumber:83331 institutioncode:MSB" ; Times: 2
+	Query: "scientificname:(Cyprinella pyrrhomelas OR Notropis pyrrhomelas) country:United States mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Cyprinodon variegatus" ; Times: 9
+	Query: "scientificname:(Etheostoma exile) country:United States mappable:1" ; Times: 1
+	Query: "Mule Deer" ; Times: 1
+	Query: "oso" ; Times: 2
+	Query: "Margariscus margarita" ; Times: 1
+	Query: "scientificname:(Notropis orca) country:United States mappable:1" ; Times: 1
+	Query: "Trachurus lathami" ; Times: 1
+	Query: "scientificname:(Notropis heterodon) country:United States mappable:1" ; Times: 1
+	Query: "Ichthyomyzon castaneus" ; Times: 1
+	Query: "16252" ; Times: 1
+	Query: "Thunnus orientalis" ; Times: 1
+	Query: "scientificname:(Lythrurus ardens OR Notropis ardens) country:United States mappable:1" ; Times: 1
+	Query: "10431" ; Times: 1
+	Query: "mappable:1 scientificname:Histrio histrio" ; Times: 2
+	Query: "scientificname:(Notropis heterolepis) country:United States mappable:1" ; Times: 1
+	Query: "Acipenser fulvescens" ; Times: 2
+	Query: "year &gt;= 1800 year &lt;= 1860 hastissue:1" ; Times: 2
+	Query: "scientificname:(Fundulus sciadicus) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Macrhybopsis hyostoma) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Etheostoma rufilineatum) country:United States mappable:1" ; Times: 1
+	Query: "(12009)" ; Times: 1
+	Query: "J.R. Hendrickson" ; Times: 1
+	Query: "scientificname:(Erimyzon sucetta OR Erimyzon sucetta sucetta) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Notropis shumardi) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Etheostoma swaini) country:United States mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Remora osteochir" ; Times: 2
+	Query: "Oreochromis mossambicus mappable:1" ; Times: 1
+	Query: "scientificname:(Noturus leptacanthus) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Esox americanus) country:United States mappable:1" ; Times: 2
+	Query: "scientificname:(Moxostoma poecilurum) country:United States mappable:1" ; Times: 1
+	Query: "Chrosomus erythrogaster" ; Times: 1
+	Query: "Cyprinella whipplei" ; Times: 1
+	Query: "62511" ; Times: 1
+	Query: "catalognumber:40050 institutioncode:MSB" ; Times: 2
+	Query: "20347" ; Times: 1
+	Query: "Thymallus" ; Times: 2
+	Query: "Remora osteochir mappable:1" ; Times: 1
+	Query: "Remora remora mappable:1" ; Times: 1
+	Query: "23783" ; Times: 2
+	Query: "scientificname:(Hemitremia flammea) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Notropis bifrenatus) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Campostoma oligolepis) country:United States mappable:1" ; Times: 1
+	Query: "20582" ; Times: 1
+	Query: "Collins 1888" ; Times: 2
+	Query: "catalognumber:40056 institutioncode:MSB" ; Times: 2
+	Query: "37567" ; Times: 1
+	Query: "scientificname:(Etheostoma caeruleum) country:United States mappable:1" ; Times: 2
+	Query: "scientificname:(Fundulus olivaceus) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:40052 institutioncode:MSB" ; Times: 2
+	Query: "mappable:1 scientificname:Poecilia reticulata" ; Times: 1
+	Query: "scientificname:(Percina roanoka OR Etheostoma roanoka) country:United States mappable:1" ; Times: 1
+	Query: "81916" ; Times: 1
+	Query: "(581) institutioncode:MSB" ; Times: 1
+	Query: "scientificname:(Etheostoma blennioides) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Notropis dorsalis) country:United States mappable:1" ; Times: 2
+	Query: "50854" ; Times: 1
+	Query: "scientificname:(Jordanella floridae) country:United States mappable:1" ; Times: 1
+	Query: "Brown trout" ; Times: 1
+	Query: "msb 32295" ; Times: 2
+	Query: "Alosa pseudoharengus" ; Times: 1
+	Query: "36220" ; Times: 2
+	Query: "mappable:1 scientificname:Isurus oxyrinchus" ; Times: 3
+	Query: "53447" ; Times: 1
+	Query: "catalognumber:16013 institutioncode:MSB" ; Times: 1
+	Query: "scientificname:(Noturus munitus) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Ammocrypta meridiana) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:83330 institutioncode:MSB" ; Times: 2
+	Query: "scientificname:(Macrhybopsis aestivalis OR Hybopsis aestivalis) country:United States mappable:1" ; Times: 7
+	Query: "scientificname:(Notropis suttkusi) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Cyprinodon rubrofluviatilis) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Etheostoma olmstedi) country:United States mappable:1" ; Times: 2
+	Query: "25126" ; Times: 1
+	Query: "scientificname:(Chrosomus erythrogaster OR Phoxinus erythrogaster) country:United States mappable:1" ; Times: 2
+	Query: "0773" ; Times: 1
+	Query: "catalognumber:1601 institutioncode:MSB" ; Times: 1
+	Query: "Cyprinus carpio" ; Times: 1
+	Query: "MSB 41684" ; Times: 2
+	Query: "Anchoa mitchilli" ; Times: 1
+	Query: "54851" ; Times: 1
+	Query: "scientificname:(Notropis boops) country:United States mappable:1" ; Times: 2
+	Query: "scientificname:(Nocomis asper) country:United States mappable:1" ; Times: 1
+	Query: "Phoxinus phoxinus" ; Times: 2
+	Query: "Hypophthalmichthys nobilis" ; Times: 1
+	Query: "33841" ; Times: 2
+	Query: "Micropterus salmoides" ; Times: 1
+	Query: "Clupea harengus" ; Times: 3
+	Query: "scientificname:(Gila atraria) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Etheostoma flabellare) country:United States mappable:1" ; Times: 3
+	Query: "scientificname:(Coregonus artedi) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Fundulus zebrinus) country:United States mappable:1" ; Times: 9
+	Query: "scientificname:(Cottus carolinae) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Fundulus grandis) country:United States mappable:1" ; Times: 3
+	Query: "Anguilla rostrata" ; Times: 1
+	Query: "43733" ; Times: 1
+	Query: "Isurus oxyrinchus mappable:1" ; Times: 1
+	Query: "scientificname:(Etheostoma squamiceps) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Ictiobus niger) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Notropis braytoni) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Etheostoma simoterum OR Etheostoma simoterum simoterum) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Notropis bairdi) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Menidia beryllina OR Menidia audens) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Erimystax insignis OR Hybopsis insignis) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Etheostoma nigrum) country:United States mappable:1" ; Times: 4
+	Query: "msb 30082" ; Times: 1
+	Query: "scientificname:(Rhinichthys atratulus OR Rhinichthys atratulus atratulus) country:United States mappable:1" ; Times: 2
+	Query: "mule deer" ; Times: 2
+	Query: "catalognumber:16891" ; Times: 1
+	Query: "99233" ; Times: 2
+	Query: "scientificname:(Nocomis leptocephalus) country:United States mappable:1" ; Times: 2
+	Query: "scientificname:(Heterandria formosa) country:United States mappable:1" ; Times: 1
+	Query: "65634" ; Times: 1
+	Query: "vntype:specimen family:Catostomidae hastissue:1" ; Times: 2
+	Query: "scientificname:(Hybopsis hypsinotus OR Notropis hypsinotus) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Moxostoma duquesnei) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Opsopoeodus emiliae OR Notropis emiliae) country:United States mappable:1" ; Times: 1
+	Query: "county:&#34;hudspeth&#34;" ; Times: 1
+	Query: "43096" ; Times: 1
+	Query: "OSUS" ; Times: 1
+	Query: "Poecilia mexicana" ; Times: 1
+	Query: "mappable:1 scientificname:Diodon holocanthus" ; Times: 9
+	Query: "texas county hudspeth" ; Times: 1
+	Query: "mappable:1 scientificname:Remora remora" ; Times: 2
+	Query: "95097" ; Times: 2
+	Query: "oklahoma state university" ; Times: 1
+	Query: "scientificname:(Lythrurus roseipinnis OR Notropis roseipinnis) country:United States mappable:1" ; Times: 1
+	Query: "Hendrickson" ; Times: 2
+	Query: "JF 163" ; Times: 1
+	Query: "scientificname:(Notropis edwardraneyi) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Notropis procne) country:United States mappable:1" ; Times: 1
+	Query: "hudspeth county" ; Times: 2
+	Query: "noturus nocturnus" ; Times: 1
+	Query: "catalognumber:83332 institutioncode:MSB" ; Times: 2
+	Query: "scientificname:(Etheostoma chlorosoma) country:United States mappable:1" ; Times: 1
+	Query: "family:catostomidae hastissue:1" ; Times: 3
+	Query: "catalognumber:83329 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:20347" ; Times: 1
+	Query: "22692" ; Times: 1
+	Query: "catalognumber:26870 institutioncode:MSB" ; Times: 1
+	Query: "12803" ; Times: 2
+	Query: "scientificname:(Richardsonius balteatus) country:United States mappable:1" ; Times: 2
+	Query: "scientificname:(Notropis amoenus) country:United States mappable:1" ; Times: 1
+	Query: "66015" ; Times: 1
+	Query: "scientificname:(Etheostoma maculatum) country:United States mappable:1" ; Times: 1
+	Query: "Carassius carassius" ; Times: 1
+	Query: "scientificname:(Etheostoma histrio) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Gila cypha) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Hybognathus regius) country:United States mappable:1" ; Times: 1
+	Query: "vntype:specimen family:catostomidae hastissue:1" ; Times: 1
+	Query: "42953" ; Times: 1
+	Query: "scientificname:(Percina macrolepida) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Gila nigrescens) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Gila elegans) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Minytrema melanops) country:United States mappable:1" ; Times: 1
+	Query: "Myoxocephalus quadricornis" ; Times: 1
+	Query: "catalognumber:61156 institutioncode:MSB" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 1521 download events in this period)
+Total number of records downloaded: 3
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Triglidae" ; Times: 1
+
+
+End of report.
