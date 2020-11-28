@@ -1,0 +1,140 @@
+Report for Institution Code MSB, Resource msb_fish
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 86
+Number of records retrieved in searches: 237
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 2
+	Country: Australia ; Times: 2
+	Country: Ireland ; Times: 4
+	Country: Unknown ; Times: 2
+	Country: India ; Times: 2
+	Country: France ; Times: 9
+	Country: United States ; Times: 44
+	Country: Belgium ; Times: 1
+	Country: Peru ; Times: 4
+	Country: Denmark ; Times: 6
+	Country: Switzerland ; Times: 2
+	Country: Hong Kong ; Times: 2
+	Country: Ecuador ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-09 ; Times: 3
+	Date: 2020-09-08 ; Times: 4
+	Date: 2020-09-03 ; Times: 2
+	Date: 2020-09-02 ; Times: 1
+	Date: 2020-09-07 ; Times: 4
+	Date: 2020-09-06 ; Times: 4
+	Date: 2020-09-05 ; Times: 1
+	Date: 2020-09-04 ; Times: 4
+	Date: 2020-09-21 ; Times: 1
+	Date: 2020-09-20 ; Times: 1
+	Date: 2020-09-23 ; Times: 4
+	Date: 2020-09-24 ; Times: 12
+	Date: 2020-09-27 ; Times: 1
+	Date: 2020-09-29 ; Times: 2
+	Date: 2020-09-30 ; Times: 1
+	Date: 2020-09-14 ; Times: 3
+	Date: 2020-09-15 ; Times: 2
+	Date: 2020-09-16 ; Times: 2
+	Date: 2020-09-17 ; Times: 4
+	Date: 2020-09-10 ; Times: 4
+	Date: 2020-09-11 ; Times: 9
+	Date: 2020-09-12 ; Times: 3
+	Date: 2020-09-13 ; Times: 3
+	Date: 2020-09-18 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "16649" ; Times: 1
+	Query: "wildfires" ; Times: 1
+	Query: "76541" ; Times: 1
+	Query: "27933" ; Times: 1
+	Query: "Squatina squatina" ; Times: 1
+	Query: "32708" ; Times: 3
+	Query: "phytoplankton" ; Times: 1
+	Query: "95835" ; Times: 1
+	Query: "MSB 33386" ; Times: 2
+	Query: "RB-3547" ; Times: 1
+	Query: "MSB 35935" ; Times: 2
+	Query: "catalognumber:18076" ; Times: 1
+	Query: "catalognumber:89012 institutioncode:MSB" ; Times: 1
+	Query: "10122" ; Times: 1
+	Query: "Petromyzon marinus" ; Times: 1
+	Query: "87306" ; Times: 3
+	Query: "catalognumber:36628" ; Times: 1
+	Query: "25093" ; Times: 1
+	Query: "snail" ; Times: 1
+	Query: "23790" ; Times: 1
+	Query: "catalognumber:5339" ; Times: 1
+	Query: "26760" ; Times: 1
+	Query: "catalognumber:18547 institutioncode:MSB" ; Times: 1
+	Query: "scat" ; Times: 1
+	Query: "37130" ; Times: 1
+	Query: "Forest Cabin" ; Times: 1
+	Query: "10815" ; Times: 3
+	Query: "catalognumber:18076 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:48083 institutioncode:MSB" ; Times: 1
+	Query: "catalognumber:23805" ; Times: 1
+	Query: "31631" ; Times: 1
+	Query: "catalognumber:55040 institutioncode:MSB" ; Times: 2
+	Query: "16892" ; Times: 1
+	Query: "ictalurus furcatus" ; Times: 3
+	Query: "Isurus oxyrinchus" ; Times: 1
+	Query: "atlantic forest" ; Times: 1
+	Query: "Alosa chrysochloris" ; Times: 1
+	Query: "catalognumber:10122" ; Times: 1
+	Query: "Carassius auratus" ; Times: 3
+	Query: "recordedby:Matthews" ; Times: 1
+	Query: "catalognumber: 56328" ; Times: 1
+	Query: "Remora remora" ; Times: 1
+	Query: "63240" ; Times: 1
+	Query: "7909" ; Times: 1
+	Query: "16952" ; Times: 1
+	Query: "99661" ; Times: 1
+	Query: "catalognumber:17167" ; Times: 1
+	Query: "MSB 39518" ; Times: 2
+	Query: "catalognumber:5848" ; Times: 1
+	Query: "horseshoe c" ; Times: 1
+	Query: "75208" ; Times: 1
+	Query: "16794" ; Times: 1
+	Query: "15075" ; Times: 1
+	Query: "Keen" ; Times: 2
+	Query: "38572" ; Times: 1
+	Query: "ameiurus melas" ; Times: 1
+	Query: "locality:seep" ; Times: 1
+	Query: "catalognumber:21122 institutioncode:MSB" ; Times: 1
+	Query: "platichthys stellatus" ; Times: 1
+	Query: "catalognumber:41225 institutioncode:MSB" ; Times: 1
+	Query: "65175" ; Times: 1
+	Query: "Iotichthys phlegethontis" ; Times: 1
+	Query: "Balistes capriscus" ; Times: 1
+	Query: "odonata" ; Times: 1
+	Query: "Remora osteochir" ; Times: 1
+	Query: "50030" ; Times: 1
+	Query: "24760" ; Times: 1
+	Query: "11923" ; Times: 1
+	Query: "93142" ; Times: 1
+	Query: "catalognumber:25408" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 976 download events in this period)
+Total number of records downloaded: 6089
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Gambusia" ; Times: 1
+
+
+End of report.
