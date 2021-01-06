@@ -1,0 +1,190 @@
+Report for Institution Code MSB, Resource msb_fish
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 164
+Number of records retrieved in searches: 3349
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 97
+	Country: Netherlands ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 19
+	Country: United Kingdom ; Times: 34
+	Country: Spain ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Bolivia ; Times: 1
+	Country: Venezuela ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-30 ; Times: 7
+	Date: 2020-12-31 ; Times: 1
+	Date: 2020-12-09 ; Times: 1
+	Date: 2020-12-08 ; Times: 11
+	Date: 2020-12-07 ; Times: 2
+	Date: 2020-12-06 ; Times: 3
+	Date: 2020-12-04 ; Times: 13
+	Date: 2020-12-03 ; Times: 16
+	Date: 2020-12-02 ; Times: 5
+	Date: 2020-12-01 ; Times: 39
+	Date: 2020-12-25 ; Times: 13
+	Date: 2020-12-24 ; Times: 8
+	Date: 2020-12-20 ; Times: 5
+	Date: 2020-12-23 ; Times: 3
+	Date: 2020-12-22 ; Times: 1
+	Date: 2020-12-29 ; Times: 2
+	Date: 2020-12-28 ; Times: 2
+	Date: 2020-12-19 ; Times: 3
+	Date: 2020-12-10 ; Times: 4
+	Date: 2020-12-11 ; Times: 6
+	Date: 2020-12-12 ; Times: 2
+	Date: 2020-12-13 ; Times: 1
+	Date: 2020-12-14 ; Times: 6
+	Date: 2020-12-15 ; Times: 4
+	Date: 2020-12-16 ; Times: 3
+	Date: 2020-12-17 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "18646" ; Times: 1
+	Query: "41264" ; Times: 2
+	Query: "76468" ; Times: 1
+	Query: "Ameiurus natalis" ; Times: 1
+	Query: "genus:Macrhybopsis stateprovince:&#34;Oklahoma&#34;" ; Times: 29
+	Query: "catalognumber:17258" ; Times: 1
+	Query: "Oncorhynchus nerka" ; Times: 1
+	Query: "fundulus grandis texas" ; Times: 5
+	Query: "Cynoscion regalis" ; Times: 1
+	Query: "Pimephales promelas" ; Times: 1
+	Query: "specificepithet:auratus genus:Carassius haslength:1" ; Times: 1
+	Query: "Oncorhynchus clarkii" ; Times: 1
+	Query: "R. W. Chadwick" ; Times: 1
+	Query: "36800" ; Times: 1
+	Query: "14840" ; Times: 1
+	Query: "Poecilia reticulata" ; Times: 1
+	Query: "26360" ; Times: 1
+	Query: "evolution" ; Times: 1
+	Query: "Oreochromis aureus" ; Times: 1
+	Query: "Oncorhynchus kisutch" ; Times: 1
+	Query: "37189" ; Times: 1
+	Query: "Esox masquinongy" ; Times: 1
+	Query: "scientificname:Isurus oxyrinchus" ; Times: 1
+	Query: "serves" ; Times: 1
+	Query: "E.5616.A" ; Times: 1
+	Query: "oreochromis aureus" ; Times: 1
+	Query: "Margariscus margarita" ; Times: 2
+	Query: "71718" ; Times: 1
+	Query: "25529" ; Times: 1
+	Query: "80614" ; Times: 1
+	Query: "Ictalurus lupus" ; Times: 1
+	Query: "msb 36209" ; Times: 1
+	Query: "82425" ; Times: 1
+	Query: "Oncorhynchus gorbuscha" ; Times: 1
+	Query: "Ictalurus pricei" ; Times: 1
+	Query: "17310" ; Times: 1
+	Query: "scientificname:Boops boops" ; Times: 6
+	Query: "scientificname:Lagocephalus lagocephalus" ; Times: 1
+	Query: "Astyanax mexicanus" ; Times: 1
+	Query: "specificepithet:punctatus stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "scientificname:Squatina squatina" ; Times: 1
+	Query: "scientificname:Petromyzon marinus" ; Times: 1
+	Query: "msb 30550" ; Times: 1
+	Query: "Ameiurus melas" ; Times: 1
+	Query: "Chrosomus erythrogaster" ; Times: 1
+	Query: "Oreochromis mossambicus" ; Times: 1
+	Query: "scientificname:Clupea harengus" ; Times: 1
+	Query: "24209" ; Times: 1
+	Query: "Dionda episcopa" ; Times: 1
+	Query: "42634" ; Times: 1
+	Query: "Oncorhynchus keta" ; Times: 1
+	Query: "70387" ; Times: 1
+	Query: "43687" ; Times: 1
+	Query: "91533" ; Times: 2
+	Query: "Poeciliopsis occidentalis" ; Times: 1
+	Query: "92027" ; Times: 1
+	Query: "11296" ; Times: 1
+	Query: "26573" ; Times: 1
+	Query: "41740" ; Times: 1
+	Query: "87609" ; Times: 1
+	Query: "41856" ; Times: 1
+	Query: "msb 55435" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "21726" ; Times: 1
+	Query: "catalognumber:92027" ; Times: 6
+	Query: "Dorosoma cepedianum" ; Times: 1
+	Query: "Anchoa mitchilli" ; Times: 1
+	Query: "91527" ; Times: 1
+	Query: "Ameiurus nebulosus" ; Times: 2
+	Query: "82259" ; Times: 1
+	Query: "Notropis jemezanus" ; Times: 1
+	Query: "Hypophthalmichthys nobilis" ; Times: 2
+	Query: "Carassius auratus" ; Times: 2
+	Query: "1997-381" ; Times: 1
+	Query: "49709" ; Times: 1
+	Query: "msb 41684" ; Times: 1
+	Query: "19907" ; Times: 1
+	Query: "55866" ; Times: 1
+	Query: "25857" ; Times: 1
+	Query: "brazos county" ; Times: 1
+	Query: "17519" ; Times: 1
+	Query: "35966" ; Times: 1
+	Query: "91485" ; Times: 1
+	Query: "35101" ; Times: 1
+	Query: "39031" ; Times: 1
+	Query: "Thunnus orientalis" ; Times: 1
+	Query: "specificepithet:auratus genus:Carassius" ; Times: 1
+	Query: "(21726)" ; Times: 1
+	Query: "scientificname:Remora osteochir" ; Times: 1
+	Query: "scientificname:Trachurus trachurus" ; Times: 2
+	Query: "Ictalurus punctatus" ; Times: 1
+	Query: "Ameiurus brunneus" ; Times: 2
+	Query: "MSB 19065" ; Times: 1
+	Query: "91897" ; Times: 2
+	Query: "MSB 63015" ; Times: 1
+	Query: "scientificname:Trichiurus lepturus" ; Times: 1
+	Query: "msb 55453" ; Times: 1
+	Query: "Carassius carassius" ; Times: 2
+	Query: "30727" ; Times: 1
+	Query: "scientificname:Balistes capriscus" ; Times: 2
+	Query: "22063" ; Times: 1
+	Query: "MSB 936" ; Times: 1
+	Query: "60372" ; Times: 1
+	Query: "scientificname:Remora remora" ; Times: 1
+	Query: "67116" ; Times: 1
+	Query: "41988" ; Times: 1
+	Query: "34899" ; Times: 2
+	Query: "34898" ; Times: 1
+	Query: "crayfish" ; Times: 1
+	Query: "catalognumber:90103" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 705 download events in this period)
+Total number of records downloaded: 3261
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: Denmark ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-01 ; Times: 2
+	Date: 2020-12-03 ; Times: 1
+	Date: 2020-12-02 ; Times: 1
+	Date: 2020-12-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Macrhybopsis stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:auratus genus:Carassius haslength:1" ; Times: 1
+	Query: "hastissue:1" ; Times: 1
+	Query: "vntype:specimen year &gt;= 1990 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "year &gt;= 1990 year &lt;= 2020 institutioncode:MSB hastissue:1" ; Times: 1
+
+
+End of report.
